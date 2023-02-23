@@ -23,8 +23,5 @@ main:
     url: people
     weight: 60
   - name: Past Workshops
-    url: people
-    weight: 60
-  - name: Contact
-    url: contact
+    url: event
     weight: 70
