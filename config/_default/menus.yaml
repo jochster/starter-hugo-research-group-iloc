@@ -7,18 +7,21 @@ main:
   - name: The Workshop
     url: tour
     weight: 10
-  - name: Schedule
+  - name: News
     url: post
     weight: 20
   - name: Participation
     url: people
     weight: 30
-  - name: Speakers
+  - name: Schedule
     url: event
     weight: 40
-  - name: Organisation
-    url: publication
+  - name: Speakers
+    url: people
     weight: 50
+  - name: Organisation
+    url: people
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
