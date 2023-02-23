@@ -22,6 +22,9 @@ main:
   - name: Organisation
     url: people
     weight: 60
+  - name: Past Workshops
+    url: people
+    weight: 60
   - name: Contact
     url: contact
     weight: 70
