@@ -17,7 +17,7 @@ main:
     weight: 20
   - name: Past workshops
     parent: main
-    url: main/post/
+    url: https://sites.google.com/view/iloc-2022
     weight: 30
   - name: Participation
     identifier: participation
