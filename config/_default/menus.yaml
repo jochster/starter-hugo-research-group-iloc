@@ -5,13 +5,34 @@
 
 main:
   - name: The Workshop
-    url: tour
+    identifier: main
+    weight: 10
+  - name: About
+    parent: main
+    url: main/tour/
     weight: 10
   - name: News
-    url: post
+    parent: main
+    url: main/post/
     weight: 20
-  - name: Call for Participation
-    url: people
+  - name: Past workshops
+    parent: main
+    url: main/post/
+    weight: 30
+  - name: Participation
+    identifier: participation
+    weight: 30
+  - name: Call for paper
+    parent: participation
+    url: participation/contribution/
+    weight: 10
+  - name: Call for poster
+    parent: participation
+    url: participation/poster/
+    weight: 20
+  - name: Registration guidelines
+    parent: participation
+    url: participation/registration/
     weight: 30
   - name: Schedule
     url: event
@@ -22,6 +43,3 @@ main:
   - name: Organisation
     url: people
     weight: 60
-  - name: Past Workshops
-    url: event
-    weight: 70
