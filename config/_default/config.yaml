@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: IEEE ITSC'23 - iLoc  # Website name
+title: IEEE ITSC 2023 - iLoc  # Website name
 baseURL: 'https://iloc.netlify.app/' # Website URL
 
 ############################
