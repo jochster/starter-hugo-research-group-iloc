@@ -23,8 +23,6 @@ design:
     text_color_light: true
 ---
 <br>
-  The **1st iLoc workshop*** has been successfully taken place on June 5th, 2022, in Aachen, Germany at the 33rd IEEE Intelligent Vehicles Symposium.
-  
   The ***2nd iLoc workshop*** is planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE International Conference on Intelligent Transportation Systems.
   
   More information will be available soon.
