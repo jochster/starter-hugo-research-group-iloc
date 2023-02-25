@@ -14,13 +14,15 @@ weight: 90
 
 title: Sponsors
 subtitle:
-items:
-  - name: i.c.sens (RTG 2159)
-    description: 
-    icon: icsens
-    icon_pack: custom
-  - name: UTC
-    description: 
-    icon: utc
-    icon_pack: custom
+
+content:
+  items:
+    - name: "i.c.sens (RTG 2159)"
+      description: 
+      icon: icsens
+      icon_pack: custom
+    - name: "UTC"
+      description: 
+      icon: utc
+      icon_pack: custom
 ---
