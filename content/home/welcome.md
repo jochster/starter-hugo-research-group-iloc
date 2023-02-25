@@ -32,7 +32,7 @@ design:
     image_parallax: true  # Use a fun parallax-like fixed background effect? true/false
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
-    gradient_angle: 180
+    # gradient_angle: 180
     text_color_light: true
 ---
 <br>
