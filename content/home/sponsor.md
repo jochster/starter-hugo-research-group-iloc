@@ -17,8 +17,8 @@ subtitle:
 items:
   - name: i.c.sens (RTG 2159)
     description: 
-    icon: icsens
+    icon: 
   - name: UTC
     description: 
-    icon: utc
+    icon: 
 ---
