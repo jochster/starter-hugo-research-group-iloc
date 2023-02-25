@@ -10,12 +10,11 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
-
-title: Sponsors
-subtitle:
+weight: 40
 
 content:
+  title: Sponsors
+  subtitle:
   items:
     - name: "i.c.sens (RTG 2159)"
       description: 
