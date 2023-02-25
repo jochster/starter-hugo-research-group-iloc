@@ -4,21 +4,18 @@ widget_id: head
 headless: true
 weight: 10
 title: "The iLoc workshop - High-integrity Localization for Automated Vehicles"
-image:
-        filename: welcome.jpg
+hero_media: welcome.jpg
 cta:
-        label: Get Started
-        url: https://wowchemy.com/templates/
-        icon_pack: fas
-        icon: download
+        label: Call for submission
+        url: /participation/contribution
+        icon_pack: fa-light
+        icon: file-user
 cta_alt:
-        label: Ask a question
-        url: https://discord.gg/z8wNYzb
+        label: Check out our program
+        url: /program/
 cta_note:
         label: >-
-                    <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-text: |-
-  Looking forward to 24 September 2023, in Bilbao!
+                    <div style="text-shadow: none;"><a class="github-button" href="https://https://2023.ieee-itsc.org/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">IEEE ITSC 2023 conference website</a></div><div style="text-shadow: none;"><a class="github-button" href="https://sites.google.com/view/iloc-2022" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">1st iLoc workshop 2022</a></div>
 
 design:
   columns: "1"
