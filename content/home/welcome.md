@@ -17,7 +17,7 @@ cta_alt:
         url: /program/
 cta_note:
         label: >-
-                    <div style="text-shadow: none;"><a class="github-button" href="https://https://2023.ieee-itsc.org/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">IEEE ITSC 2023 conference website</a></div>
+                    <div style="text-shadow: none;"><a class="github-button" href="https://2023.ieee-itsc.org/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">IEEE ITSC 2023 conference website</a></div>
                     <div style="text-shadow: none;"><a class="github-button" href="https://sites.google.com/view/iloc-2022" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">1st iLoc workshop 2022</a></div>
 
 design:
@@ -36,7 +36,7 @@ design:
     text_color_light: true
 ---
 <br>
-  The 2nd iLoc workshop is planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE International Conference on Intelligent Transportation Systems.
+  The 2nd iLoc workshop is planned to be held September 24th, 2023 in Bilbao, Spain at [the 26th IEEE International Conference on Intelligent Transportation Systems](https://2023.ieee-itsc.org/).\\
   
   More information will be available soon.
 
