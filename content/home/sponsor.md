@@ -14,7 +14,6 @@ weight: 90
 
 title: Sponsors
 subtitle:
-text: Section text
 items:
   - name: i.c.sens (RTG 2159)
     description: 
