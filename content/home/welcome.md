@@ -8,10 +8,10 @@ title: "**The iLoc workshop** -
 High-integrity Localization for Automated Vehicles"
 hero_media: null
 cta:
-        label: Submit your paper
+        label: Submit your paper!
         url: /participation/contribution
         icon_pack: fas
-        icon: file-user
+        icon: fa-file-user
 cta_alt:
         label: Check out our program
         url: /program/
