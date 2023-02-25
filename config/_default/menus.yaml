@@ -34,8 +34,8 @@ main:
     parent: participation
     url: participation/registration/
     weight: 30
-  - name: Schedule
-    url: event
+  - name: Program
+    url: program
     weight: 40
   - name: Speakers
     url: people
