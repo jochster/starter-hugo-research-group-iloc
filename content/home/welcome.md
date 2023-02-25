@@ -23,17 +23,16 @@ design:
   css_style: null
   css_class: null
   background:
-    image: 
-      filename: coders.jpg
-      filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-        brightness: 0.6
-        #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-        size: cover
-        # Image focal point. Options include `left`, `center` (default), or `right`.
-        position: center
-        # Use a fun parallax-like fixed background effect on desktop? true/false
-        parallax: true
+    image: coders.jpg
+    filters:
+      # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+      brightness: 0.6
+      #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+      size: cover
+      # Image focal point. Options include `left`, `center` (default), or `right`.
+      position: center
+      # Use a fun parallax-like fixed background effect on desktop? true/false
+      parallax: true
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
     gradient_angle: 180
