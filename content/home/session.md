@@ -2,10 +2,8 @@
 widget: hero
 widget_id: session_topic
 headless: true
-weight: 10
-title: "**The iLoc workshop** - 
-
-High-integrity Localization for Automated Vehicles"
+weight: 20
+title: "Scope of the workshop:"
 hero_media: null
 cta:
         label: Submit your paper!
