@@ -1,8 +1,8 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: features
-
+widget: featurette
+widget_id: sponsor
 # Activate this widget? true/false
 active: true
 
@@ -13,8 +13,8 @@ headless: true
 weight: 40
 
 content:
-  title: Sponsors
-  subtitle:
+  title: "Sponsors"
+  subtitle: null
   items:
     - name: "i.c.sens (RTG 2159)"
       description: 
