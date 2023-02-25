@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 80
 
-content:
+feature:
   title: "Sponsors"
   subtitle: null
   items:
