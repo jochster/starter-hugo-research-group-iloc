@@ -3,7 +3,8 @@ widget: hero
 widget_id: head
 headless: true
 weight: 10
-title: "The iLoc workshop - High-integrity Localization for Automated Vehicles"
+title: """The iLoc workshop""" - 
+High-integrity Localization for Automated Vehicles
 hero_media: null
 cta:
         label: Submit your paper
