@@ -6,7 +6,7 @@ title: Jingyao Su
 superuser: false
 
 # Role/position
-role: Ph.D. candidate at the Institut für Erdmessung (IfE) at Leibniz University Hannover, Germany
+role: Ph.D. candidate of the DFG research training group i.c.sens
 
 # Organizations/Affiliations
 organizations:
