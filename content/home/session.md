@@ -1,6 +1,5 @@
 ---
 widget: "blank"
-widget_id: "scope"
 headless: true
 
 weight: 20
