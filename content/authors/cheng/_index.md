@@ -5,13 +5,14 @@ title: Hao Cheng
 superuser: false
 
 # Role/position
-role:  Researcher and MSCA posdoctoral fellow
+role:  Researcher and MSCA posdoctoral fellow at the ITC Faculty Geo-Information Science and Earth Observation
 organizations:
   - name: University of Twente
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: He is a Researcher and MSCA posdoctoral fellow at the ITC Faculty Geo-Information Science and Earth Observation, University of Twente, the Netherlands. He earned his M.Sc. degree (with distinction) in Internet Technologies and Information Systems from TU Braunschweig, Leibniz University Hannover, TU Clausthal, and University Göttingen, Germany, in 2017, and his Ph.D. (with distinction) at the Faculty of Civil Engineering and Geodetic Science, Leibniz University Hannover, Germany, 2021. His research interests include deep learning of road user behavior modeling in intelligent transport systems and autonomous driving and safety analysis between vehicles and vulnerable road users.
+bio: Researcher and MSCA posdoctoral fellow at the ITC Faculty Geo-Information Science and Earth Observation, University of Twente, the Netherlands. 
+
 # interests:
 #  - intelligent vehicles
 #  - high-integrity positioning and map-matching for autonomous navigation on roads opened to public traffic.
@@ -54,3 +55,5 @@ highlight_name: false
 user_groups:
   - Organizers
 ---
+
+He is a researcher and MSCA posdoctoral fellow at the ITC Faculty Geo-Information Science and Earth Observation, University of Twente, the Netherlands. He earned his M.Sc. degree (with distinction) in Internet Technologies and Information Systems from TU Braunschweig, Leibniz University Hannover, TU Clausthal, and University Göttingen, Germany, in 2017, and his Ph.D. (with distinction) at the Faculty of Civil Engineering and Geodetic Science, Leibniz University Hannover, Germany, 2021. His research interests include deep learning of road user behavior modeling in intelligent transport systems and autonomous driving and safety analysis between vehicles and vulnerable road users.
