@@ -10,8 +10,8 @@ role: Ph.D. candidate of the DFG research training group i.c.sens
 
 # Organizations/Affiliations
 organizations:
-  - name: Leibniz University Hannover, Institut für Erdmessung (IfE)
-    url: ''
+  - name: Leibniz University Hannover, Institut für Erdmessung (IfE), Germany
+    url: 'https://ife.uni-hannover.de'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. candidate at the Institut für Erdmessung (IfE) at Leibniz University Hannover, Germany
