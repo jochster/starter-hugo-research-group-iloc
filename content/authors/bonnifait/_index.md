@@ -5,7 +5,7 @@ title: Philippe Bonnifait
 superuser: false
 
 # Role/position
-role: professor in the Computer Science and Engineering Department, Université de Technologie de Compiègne, France. His research interests include intelligent vehicles, and high-integrity positioning and map-matching for autonomous navigation on roads opened to public traffic.
+role: professor in the Computer Science and Engineering Department, Université de Technologie de Compiègne, France.
 
 # Organizations/Affiliations
 organizations:
