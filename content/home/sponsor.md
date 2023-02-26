@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: "Sponsors"
+title: "Funding"
 subtitle: 
 feature:
   - icon: "icsens"
@@ -25,6 +25,10 @@ feature:
     description:
   - icon: "utc"
     icon_pack: "custom"
-    name: "UTC"
+    name: "Heudiasyc Lab (UMR 7253)"
+    description:
+  - icon:
+    icon_pack:
+    name: "Renault"
     description:
 ---
