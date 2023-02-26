@@ -6,7 +6,7 @@ title: Claus Brenner
 superuser: false
 
 # Role/position
-role: professor at the Institute of Cartography and Geoinformatics, Leibniz University Hannover. 
+role: Professor at the Institute of Cartography and Geoinformatics
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: His is currently a professor at the Institute of Cartography and Geoinformatics, Leibniz University Hannover. He received his Ph.D. at the University of Stuttgart, Faculty of Civil Engineering and Surveying in 2000. Since 2002, he is the head of the Junior Research Group ``Automatic Methods for Fusion, Reduction and Consistent Combination of Complex Heterogeneous Geoinformation". He received the Internationaler Carl Pulfrich award in 2001. His research interests are laser scanning, image processing, and pattern recognition.
+bio: Professor at the Institute of Cartography and Geoinformatics, Leibniz University Hannover. 
 
 
 # Social/Academic Networking
@@ -43,5 +43,4 @@ highlight_name: false
 user_groups:
   - Organizers
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His is currently a professor at the Institute of Cartography and Geoinformatics, Leibniz University Hannover. He received his Ph.D. at the University of Stuttgart, Faculty of Civil Engineering and Surveying in 2000. Since 2002, he is the head of the Junior Research Group ``Automatic Methods for Fusion, Reduction and Consistent Combination of Complex Heterogeneous Geoinformation". He received the Internationaler Carl Pulfrich award in 2001. His research interests are laser scanning, image processing, and pattern recognition.
