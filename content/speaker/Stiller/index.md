@@ -4,25 +4,25 @@ title: Christoph Stiller
 event: Christoph Stiller
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Euskalduna Conference Centre
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 4, Abandoibarra Av.
+  city: Bilbao
+  region: Bizkaia
+  postcode: '48011'
+  country: Spain
 
 summary: KIT
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-24Txx:xx:xxZ'
+date: '2023-09-24Txx:xx:xx0Z'
 date_end: '2023-09-24Txx:xx:xxZ'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-02-27T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors: [iLoc]
 tags: []
@@ -55,9 +55,3 @@ projects:
 ---
 
 Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
