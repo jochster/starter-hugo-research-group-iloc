@@ -10,11 +10,11 @@ role: Ph.D. candidate of the DFG research training group i.c.sens
 
 # Organizations/Affiliations
 organizations:
-  - name: Leibniz University Hannover
+  - name: Leibniz University Hannover, Institute of Cartography and Geoinformatics
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: He joined the Institute of Cartography and Geoinformatics Hannover, Germany, as a Ph.D. candidate of the DFG research training group i.c.sens. He received his M.Sc. degree in Navigation and Field Robotics in the same university in 2020. His research domain is vehicle localization using LiDAR data. In particular, he works on robust localization approaches using the maximum consensus criterion. In this context, he has published his work in the ISPRS Ann. Photogramm. Remote Sens. Spatial Inf.~Sci.~in 2021.
+bio: 
 
 
 # Social/Academic Networking
@@ -43,3 +43,4 @@ highlight_name: false
 user_groups:
   - Organizers
 ---
+He joined the Institute of Cartography and Geoinformatics Hannover, Germany, as a Ph.D. candidate of the DFG research training group i.c.sens. He received his M.Sc. degree in Navigation and Field Robotics in the same university in 2020. His research domain is vehicle localization using LiDAR data. In particular, he works on robust localization approaches using the maximum consensus criterion. In this context, he has published his work in the ISPRS Ann. Photogramm. Remote Sens. Spatial Inf.~Sci.~in 2021.
