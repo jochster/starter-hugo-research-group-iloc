@@ -10,12 +10,11 @@ role: Professor for positioning and navigation
 
 # Organizations/Affiliations
 organizations:
-  - name: Leibniz University Hannover
-    url: ''
+  - name: Leibniz University Hannover, Institut für Erdmessung (IfE), Germany
+    url: 'https://ife.uni-hannover.de'
 
 # Short bio (displayed in user profile at end of posts)
-bio: He is currently a professor for positioning and navigation in the geodesy department. He is spokesperson of the research training group I.c.sens and the current research focus is on GNSS-based urban navigation, collaborative positioning as well as  alternative integrity monitoring.
-
+bio: Professor for positioning and navigation in the geodesy department, Leibniz University Hannover. 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,4 +43,4 @@ user_groups:
   - Organizers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He is currently a professor for positioning and navigation in the geodesy department. He is spokesperson of the research training group I.c.sens and the current research focus is on GNSS-based urban navigation, collaborative positioning as well as  alternative integrity monitoring.
