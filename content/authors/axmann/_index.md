@@ -10,7 +10,7 @@ role: Ph.D. candidate of the DFG research training group i.c.sens
 
 # Organizations/Affiliations
 organizations:
-  - name: Leibniz University Hannover, Institute of Cartography and Geoinformatics
+  - name: Leibniz University Hannover, Institute of Cartography and Geoinformatics (IKG), Germany
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
