@@ -15,16 +15,16 @@ weight: 80
 title: "Sponsors"
 subtitle: 
 feature:
-  - name: "i.c.sens (RTG 2159)"
+  - icon: "icsens"
+    icon_pack: "custom"
+    name: "i.c.sens (RTG 2159)"
     description: 
-    icon: icsens
-    icon_pack: custom
-  - name: "DFG"
+  - icon:
+    icon_pack:
+    name: "DFG"
     description:
-    icon: '😁'
-    icon_pack: emoji
-  - name: "UTC"
-    description: 
-    icon: utc
-    icon_pack: custom
+  - icon: "utc"
+    icon_pack: "custom"
+    name: "UTC"
+    description:
 ---
