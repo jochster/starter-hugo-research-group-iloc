@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Welcome to the 2nd iLoc workshop
       content: Take a look at what we're working on...
       align: center
       background:
@@ -23,6 +23,14 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
+    - title: 👋 the 1st iLoc workshop
+      content: took place on June 5th, 2022 in Aachen, Germany at the 33rd IEEE IV
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: iLoc2022.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
