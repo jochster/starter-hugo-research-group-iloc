@@ -5,7 +5,7 @@ title: Philippe Xu
 superuser: false
 
 # Role/position
-role: associate professor in the Computer Science department of UTC
+role: Associate professor in the Computer Science department
 
 # Organizations/Affiliations
 organizations:
