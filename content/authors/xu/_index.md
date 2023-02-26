@@ -9,11 +9,11 @@ role: associate professor in the Computer Science department of UTC
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de technologie de Compiègne
+  - name: Université de technologie de Compiègne, France
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Philippe XU received his M.S. degree in computer science from the Ecole Normale Supérieure de Cachan, France, in 2011. He received his Ph.D. degree from the Université de Technologie de Compiègne (UTC), France, in 2014. Since 2015, he is an associate professor in the Computer Science department of UTC and is carrying out his research in Heudiasyc UMR 7253 (UTC/CNRS). Since 2017, he is also a member of SIVALab a joint laboratory between Renault and Heudiasyc which aim is to study and develop high integrity localization and perception systems for autonomous vehicles. His research interests cover information fusion, computer vision and machine learning applied to localization and perception for autonomous vehicles.
+bio: Associate professor in the Computer Science department of UTC
 
 interests:
   - information fusion
@@ -58,3 +58,4 @@ highlight_name: false
 user_groups:
   - Organizers
 ---
+He received his M.S. degree in computer science from the Ecole Normale Supérieure de Cachan, France, in 2011. He received his Ph.D. degree from the Université de Technologie de Compiègne (UTC), France, in 2014. Since 2015, he is an associate professor in the Computer Science department of UTC and is carrying out his research in Heudiasyc UMR 7253 (UTC/CNRS). Since 2017, he is also a member of SIVALab a joint laboratory between Renault and Heudiasyc which aim is to study and develop high integrity localization and perception systems for autonomous vehicles. His research interests cover information fusion, computer vision and machine learning applied to localization and perception for autonomous vehicles.
