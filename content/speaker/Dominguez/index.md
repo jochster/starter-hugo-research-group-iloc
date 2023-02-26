@@ -1,24 +1,24 @@
 ---
-title: Example Event
+title: Enrique Dominguez
 
 event: Enrique Dominguez
-event_url: https://example.org
+event_url: 
 
-location: Wowchemy HQ
+location: Euskalduna Conference Centre
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 4, Abandoibarra Av.
+  city: Bilbao
+  region: Bizkaia
+  postcode: '48011'
+  country: Spain
 
 summary: GMV
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-09-24Txx:xx:xx0Z'
+date_end: '2023-09-24Txx:xx:xxZ'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -28,7 +28,7 @@ authors: [iLoc]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
