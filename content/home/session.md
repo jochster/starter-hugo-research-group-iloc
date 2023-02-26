@@ -9,7 +9,7 @@ subtitle:
 active: true
 
 design:
-    columns:'2'
+    columns:'1'
 ---
 The iLoc workshop is to emphasize the importance of integrity in ITS addressing the scientific challenges with respect to the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks.
 
