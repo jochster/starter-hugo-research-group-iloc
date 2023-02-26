@@ -10,11 +10,11 @@ role: Ph.D. candidate of the DFG research training group i.c.sens
 
 # Organizations/Affiliations
 organizations:
-  - name: Leibniz University Hannover
+  - name: Leibniz University Hannover, Institut für Erdmessung (IfE)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: He has been a Ph.D. candidate at the Institut für Erdmessung (IfE) at Leibniz University Hannover, Germany since 2020. He earned his M.Sc. degree in Earth Oriented Space Science and Technology (ESPACE) from the Technical University of Munich, Germany, in 2020. His research interests include GNSS integrity monitoring and interval mathematics. He received the best presentation awards by the Institute of Navigation at the conference of ION GNSS+ 2021, USA, and by the European Space Agency at NAVITEC 2022, the Netherlands.
+bio: Ph.D. candidate at the Institut für Erdmessung (IfE) at Leibniz University Hannover, Germany
 
 
 # Social/Academic Networking
@@ -44,4 +44,4 @@ user_groups:
   - Organizers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He has been a Ph.D. candidate at the Institut für Erdmessung (IfE) at Leibniz University Hannover, Germany since 2020. He earned his M.Sc. degree in Earth Oriented Space Science and Technology (ESPACE) from the Technical University of Munich, Germany, in 2020. His research interests include GNSS integrity monitoring and interval mathematics. He received the best presentation awards by the Institute of Navigation at the conference of ION GNSS+ 2021, USA, and by the European Space Agency at NAVITEC 2022, the Netherlands.
