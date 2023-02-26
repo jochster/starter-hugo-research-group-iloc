@@ -1,7 +1,7 @@
 ---
-title: Enrique Dominguez
+title: Christoph Stiller
 
-event: Enrique Dominguez
+event: Christoph Stiller
 event_url: https://example.org
 
 location: Wowchemy HQ
@@ -12,23 +12,23 @@ address:
   postcode: '94305'
   country: United States
 
-summary: GMV
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: KIT
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-09-24Txx:xx:xxZ'
+date_end: '2023-09-24Txx:xx:xxZ'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-02-27T00:00:00Z'
 
 authors: [iLoc]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
