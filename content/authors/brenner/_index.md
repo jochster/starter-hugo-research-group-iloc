@@ -6,12 +6,12 @@ title: Claus Brenner
 superuser: false
 
 # Role/position
-role: Professor at the Institute of Cartography and Geoinformatics
+role: Professor in the geodesy department 
 
 # Organizations/Affiliations
 organizations:
-  - name: Leibniz University Hannover
-    url: ''
+  - name: Leibniz University Hannover, Institute of Cartography and Geoinformatics (IKG), Germany
+    url: 'https://ikg.uni-hannover.de'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Professor at the Institute of Cartography and Geoinformatics, Leibniz University Hannover. 
