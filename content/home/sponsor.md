@@ -12,20 +12,19 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-content:
-  title: "Sponsors"
-  subtitle: 
-  items:
-    - name: "i.c.sens (RTG 2159)"
-      description: 
-      icon: icsens
-      icon_pack: custom
-    - name: "DFG"
-      descriotion:
-      icon:
-      icon_pack:
-    - name: "UTC"
-      description: 
-      icon: utc
-      icon_pack: custom
+title: "Sponsors"
+subtitle: 
+feature:
+  - name: "i.c.sens (RTG 2159)"
+    description: 
+    icon: icsens
+    icon_pack: custom
+  - name: "DFG"
+    description:
+    icon: '😁'
+    icon_pack: emoji
+  - name: "UTC"
+    description: 
+    icon: utc
+    icon_pack: custom
 ---
