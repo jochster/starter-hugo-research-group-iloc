@@ -6,15 +6,15 @@ title: Jeldrik Axmann
 superuser: false
 
 # Role/position
-role: Doctoral researcher
+role: Ph.D. candidate of the DFG research training group i.c.sens
 
 # Organizations/Affiliations
 organizations:
-  - name: Leibniz University of Hannover
+  - name: Leibniz University Hannover
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: He joined the Institute of Cartography and Geoinformatics Hannover, Germany, as a Ph.D. candidate of the DFG research training group i.c.sens. He received his M.Sc. degree in Navigation and Field Robotics in the same university in 2020. His research domain is vehicle localization using LiDAR data. In particular, he works on robust localization approaches using the maximum consensus criterion. In this context, he has published his work in the ISPRS Ann. Photogramm. Remote Sens. Spatial Inf.~Sci.~in 2021.
 
 
 # Social/Academic Networking
