@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Jeldrik Axmann
+weight: 8
 
 # Is this the primary user of the site?
 superuser: false
