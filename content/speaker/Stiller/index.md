@@ -1,5 +1,5 @@
 ---
-title: Christoph Stiller
+title: Prof. Dr. Christoph Stiller
 
 event: Christoph Stiller
 event_url: https://example.org
