@@ -19,22 +19,22 @@ feature:
     icon_pack: "custom"
     name: "[i.c.sens](https://icsens.uni-hannover.de)"
     description: "DFG research training group 2159"
-  - icon: "Deutsche ForschungsGesellschaft (DFG)"
+  - icon: "DFG"
     icon_pack: "custom"
-    name: "DFG"
-    description:
+    name: "DFG_black"
+    description: "Deutsche ForschungsGesellschaft"
   - icon: "heud"
     icon_pack: "custom"
     name: "[Heudiasyc Lab](https://www.hds.utc.fr/en.html)"
     description: "UTC-CNRS UMR 7253"
   - icon: "Renault"
     icon_pack: "custom"
-    name: "Renault"
+    name: "[Renault](https://www.renaultgroup.com/)"
     description:
   - icon: "itc"
     icon_pack: "custom"
-    name: "ITC"
-    description:
+    name: "[ITC](https://www.itc.nl/)"
+    description: "ITC Faculty Geo-Information Science and Earth Observation of the University of Twente"
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
