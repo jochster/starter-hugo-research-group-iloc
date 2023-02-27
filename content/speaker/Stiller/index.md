@@ -54,4 +54,4 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+
