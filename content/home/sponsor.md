@@ -41,7 +41,7 @@ design:
     padding: ["40px", "0",  "30px", "0"]
   background:
     gradient_end: 'LightGrey'
-    gradient_start: 'AliceBlue'
+    gradient_start: 'DarkGray'
     gradient_angle: 180
 #    color: 'LightGrey'
     text_color_light: false
