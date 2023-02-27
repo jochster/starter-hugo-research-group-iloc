@@ -47,7 +47,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
   # Choose a listing view
   # view: masonry
   # Toggle between the various page layout types.
@@ -55,7 +55,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: card
+  view: showcase
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
   # background:
