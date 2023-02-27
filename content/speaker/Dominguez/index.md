@@ -22,17 +22,17 @@ date_end: '2023-09-24Txx:xx:xxZ'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-02-27T00:00:00Z'
 
-authors: [iLoc]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 url_code: ''
 url_pdf: ''
