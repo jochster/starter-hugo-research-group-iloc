@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: 👋 Welcome to the 2nd iLoc workshop
-      content: Take a look at what we're working on...
+      content: is planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE ITSC
       align: center
       background:
         position: right
@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: coders.jpg
     - title: 👋 the 1st iLoc workshop
-      content: took place on June 5th, 2022 in Aachen, Germany at the 33rd IEEE IV
+      content: took place on June 5th, 2022 in Aachen, Germany at the 33rd IEEE IV Symposium
       align: center
       background:
         position: right
