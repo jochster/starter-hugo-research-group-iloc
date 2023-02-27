@@ -17,24 +17,24 @@ subtitle:
 feature:
   - icon: "icsens"
     icon_pack: "custom"
-    name: "[i.c.sens](https://icsens.uni-hannover.de)"
-    description: "DFG research training group 2159"
+    name: "[i.c.sens (RTG 2159)](https://icsens.uni-hannover.de)"
+    description: 
   - icon: "DFG_black"
     icon_pack: "custom"
-    name: "[DFG](https://www.dfg.de)"
-    description: "Deutsche ForschungsGesellschaft"
+    name: "[Deutsche ForschungsGesellschaft (DFG)](https://www.dfg.de)"
+    description: ""
   - icon: "heud"
     icon_pack: "custom"
-    name: "[Heudiasyc Lab](https://www.hds.utc.fr/en.html)"
-    description: "UTC-CNRS UMR 7253"
+    name: "[Heudiasyc Lab (UMR 7253)](https://www.hds.utc.fr/en.html)"
+    description: ""
   - icon: "Renault"
     icon_pack: "custom"
     name: "[Renault](https://www.renaultgroup.com/)"
     description:
   - icon: "itc"
     icon_pack: "custom"
-    name: "[ITC](https://www.itc.nl/)"
-    description: "ITC Faculty Geo-Information Science and Earth Observation of the University of Twente"
+    name: "[ITC, University of Twente](https://www.itc.nl/)"
+    description: 
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
