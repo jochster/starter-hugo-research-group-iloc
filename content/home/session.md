@@ -9,10 +9,10 @@ active: true
 
 design:
     columns: "1"
-    background:
-      gradient_end: '#1976d2'
-      gradient_start: '#004ba0'
-      gradient_angle: 180
+#    background:
+#      gradient_end: '#1976d2'
+#      gradient_start: '#004ba0'
+#      gradient_angle: 180
     text_color_light: true
 ---
 The iLoc workshop is to emphasize **the importance of integrity in ITS** addressing the scientific challenges with respect to ***the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks***.
