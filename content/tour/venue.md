@@ -15,8 +15,6 @@ design:
 #      gradient_angle: 180
     text_color_light: true
 ---
-{{< figure src="https://2023.ieee-itsc.org/wp-content/uploads/2022/10/el-edificio-0x300-c-default.jpg" id="venue" >}}
-![screen reader text](https://2023.ieee-itsc.org/wp-content/uploads/2022/10/el-edificio-0x300-c-default.jpg "caption")
 
 The ITSC 2023 conference will be held at the Euskalduna Conference Centre located in the center of Bilbao, Bizkaia, Spain.
 The workshop room will be announced later. 
@@ -41,7 +39,7 @@ Website for Renfe
 FEVE: La Concordia Station (also known as ‘Estación de Santander’) is next door to Abando Station, and therefore the same routes mentioned above can be used to reach the Bizkaia Aretoa building from here.
 Website for FEVE
 Arrivals at Bilbao Intermodal: It is possible to walk to the Congress Centre from Bilbao Intermodal in about 10 minutes or else to take the tram bound for Atxuri from the San Mamés tram stop.
-#### Airport Transfers
+#### Airport Transfers:
 The airport is a short 25-minute drive from the heart of downtown Bilbao.
 Car rental companies offer on-site pickup options.
 Taxi service is available at the curb on the terminal just outside of Baggage Claim. The average taxi fare is about €30, although it could be increased on Sundays or night services.
