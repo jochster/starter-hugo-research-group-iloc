@@ -18,13 +18,13 @@ design:
 The iLoc workshop is to emphasize **the importance of integrity in ITS** addressing the scientific challenges with respect to ***the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks***.
 
 ### Research Questions of Interest:
-- What are the leading factors for high-integrity localization for AVs, e.g., road geometry, vehicle dimension, sensor accuracy, environmental factors, vehicle motion, and other road users?
+- What are the `leading factors' for high-integrity localization for AVs, e.g., road geometry, vehicle dimension, sensor accuracy, environmental factors, vehicle motion, and other road users?
 - Which multi-sensor architectures and data fusion methods are best suited for autonomous driving? 
-- How to estimate the uncertainty and integrity risks applicable to model-based and data-driven approaches to localization?
-- How can maps be used to increase localization integrity?
+- How to estimate the **uncertainty** and **integrity risks** applicable to model-based and data-driven approaches to localization?
+- How can **maps** be used to increase localization integrity?
 - How to combine a vehicle kinematic model and road geometry to improve integrity estimation? Is the sequence of AV’s maneuver tasks of driving from position A to B well defined?
-- What are the integrity metrics needs for AVs? That is, in longitudinal, lateral, vertical (e.g., multi-level road interchanges), orientation (pitch, roll, and yaw angles).
-- Are there any emergent standards applicable to the estimation of integrity in the Intelligent Transportation field?
+- What are the **integrity metrics** needs for AVs? That is, in longitudinal, lateral, vertical (e.g., multi-level road interchanges), orientation (pitch, roll, and yaw angles).
+- Are there any **emergent standards** applicable to the estimation of integrity in the Intelligent Transportation field?
 - How to verify experimentally the system localization integrity when considering low risks? E.g., down to 10e-5 or below, and under numerous driving conditions?
   
 ### Topics of Interest:
