@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Javier Ibanez-Guzman
+title: Dr. Javier Ibanez-Guzman
 # Is this the primary user of the site?
 superuser: false
 
@@ -9,7 +9,7 @@ role: Technical Lead Research & Advanced Engineering at the Connected Autonomous
 
 # Organizations/Affiliations
 organizations:
-  - name: Renault, France
+  - name: Groupe Renault, France
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
