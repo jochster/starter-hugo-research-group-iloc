@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jingyao Su
-weight: 7
+weight: 70
 
 # Is this the primary user of the site?
 superuser: false
