@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Philippe Xu
+title: Prof. Dr. Philippe Xu
 # Is this the primary user of the site?
 superuser: false
 
