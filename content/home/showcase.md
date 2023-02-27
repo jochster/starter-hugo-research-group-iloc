@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: 👋 Welcome to the 2nd iLoc workshop
-      content: is planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE ITSC
+      content: planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE ITSC
       align: center
       background:
         position: right
