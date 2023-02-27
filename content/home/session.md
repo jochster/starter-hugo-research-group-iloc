@@ -17,7 +17,7 @@ design:
 ---
 The iLoc workshop is to emphasize **the importance of integrity in ITS** addressing the scientific challenges with respect to ***the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks***.
 
-### Research Questions of Interests:
+### Research Questions of Interest:
 - What are the leading factors for high-integrity localization for AVs, e.g., road geometry, vehicle dimension, sensor accuracy, environmental factors, vehicle motion, and other road users?
 - Which multi-sensor architectures and data fusion methods are best suited for autonomous driving? 
 - How to estimate the uncertainty and integrity risks applicable to model-based and data-driven approaches to localization?
