@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Dr. Javier Ibanez-Guzman
+weight: 5
+
 # Is this the primary user of the site?
 superuser: false
 
