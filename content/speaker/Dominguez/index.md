@@ -12,8 +12,8 @@ address:
   postcode: '48011'
   country: Spain
 
-summary: GMV
-abstract: ''
+summary: Technical leader in the GNSS user and applications segment at GMV.
+abstract: 'Enrique Domínguez works at GMV as a technical leader in the GNSS user and applications segment. He received a M.Sc. degree in Telecommunications Engineering in 2000 and a Master in Space Technologies in 2009, both from the Polytechnic University of Madrid. He joined GMV in 2000 working first in the development of EGNOS and Galileo and since 2009 in GNSS software receivers, multi-sensor fusion algorithms and integrity algorithms.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
