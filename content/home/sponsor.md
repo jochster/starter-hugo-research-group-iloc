@@ -23,7 +23,7 @@ feature:
     icon_pack:
     name: "DFG"
     description:
-  - icon: "utc"
+  - icon: "heud"
     icon_pack: "custom"
     name: "Heudiasyc Lab (UMR 7253)"
     description:
