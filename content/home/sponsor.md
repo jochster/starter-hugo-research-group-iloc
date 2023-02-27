@@ -17,16 +17,16 @@ subtitle:
 feature:
   - icon: "icsens"
     icon_pack: "custom"
-    name: "i.c.sens"
-    description: "RTG 2159"
-  - icon: "DFG"
+    name: "[i.c.sens](https://icsens.uni-hannover.de)"
+    description: "DFG research training group 2159"
+  - icon: "Deutsche ForschungsGesellschaft (DFG)"
     icon_pack: "custom"
     name: "DFG"
     description:
   - icon: "heud"
     icon_pack: "custom"
-    name: "Heudiasyc"
-    description: "UMR 7253"
+    name: "[Heudiasyc Lab](https://www.hds.utc.fr/en.html)"
+    description: "UTC-CNRS UMR 7253"
   - icon: "Renault"
     icon_pack: "custom"
     name: "Renault"
@@ -38,6 +38,6 @@ feature:
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0", "0px",  "0", "0px"]
+    padding: ["40px", "0",  "30px", "0"]
     
 ---
