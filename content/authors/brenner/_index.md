@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Claus Brenner
+title: Prof. Dr. Claus Brenner
 
 # Is this the primary user of the site?
 superuser: false
