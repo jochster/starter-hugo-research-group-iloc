@@ -15,10 +15,14 @@ main:
     parent: main
     url: post/
     weight: 20
+  - name: IEEE ITSC 2023
+    parent: main
+    url: https://2023.ieee-itsc.org
+    weight: 30
   - name: The 1st iLoc workshop
     parent: main
     url: https://sites.google.com/view/iloc-2022
-    weight: 30
+    weight: 40
   - name: Participation
     identifier: participation
     weight: 30
