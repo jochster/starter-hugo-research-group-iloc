@@ -36,7 +36,7 @@ design:
     # gradient_angle: 180
     text_color_light: true
 ---
-<br>
+# <br>
   The **2nd iLoc workshop** is planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE International Conference on Intelligent Transportation Systems.
   
   More information will be available soon.
