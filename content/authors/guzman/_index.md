@@ -5,15 +5,15 @@ title: Javier Ibanez-Guzman
 superuser: false
 
 # Role/position
-role: .
+role: Technical Lead Research & Advanced Engineering at the Connected Autonomous Vehicles, Level-4 SAE section of Renault
 
 # Organizations/Affiliations
 organizations:
-  - name: Renault
+  - name: Renault, France
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Technical Lead Research & Advanced Engineering at the Connected Autonomous Vehicles, Level-4 SAE section of Renault and responsible for the corporate network of specialists (Decision-Making, Machine Perception, World Modelling, Validation).
 
 # interests:
 #  - intelligent vehicles
@@ -57,3 +57,4 @@ highlight_name: false
 user_groups:
   - Organizers
 ---
+He is Technical Lead Research & Advanced Engineering at the Connected Autonomous Vehicles, Level-4 SAE section of Renault and responsible for the corporate network of specialists (Decision-Making, Machine Perception, World Modelling, Validation). Javier is also a member of the Alliance Venture Capital investments (Renault-Nissan-Mitsubishi) for Autonomous Driving technologies and has additional responsibilities for the industry & academic activities of SivaLab (UTC Compiègne, CNRS): Renault Engineers, Academic Staff, Post-Docs, PhDs candidates.
