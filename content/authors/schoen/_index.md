@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Steffen Schön
+title: Prof. Dr. Steffen Schön
 
 # Is this the primary user of the site?
 superuser: false
