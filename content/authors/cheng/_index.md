@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Dr. Hao Cheng
-weight: 5
+weight: 40
 
 # Is this the primary user of the site?
 superuser: false
