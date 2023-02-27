@@ -40,9 +40,10 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["40px", "0",  "30px", "0"]
   background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
-    gradient_angle: 180
+#    gradient_end: '#1976d2'
+#    gradient_start: '#004ba0'
+#    gradient_angle: 180
+    color: 'LightGrey'
     text_color_light: true
     
 ---
