@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hao Cheng
+title: Dr. Hao Cheng
 # Is this the primary user of the site?
 superuser: false
 
