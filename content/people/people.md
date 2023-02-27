@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Meet the 2nd iLoc organization team
-subtitle: Corresponding person: Philippe Xu ([philippe.xu@hds.utc.fr](mailto:philippe.xu@hds.utc.fr))
+subtitle: Corresponding person: Philippe Xu (philippe.xu@hds.utc.fr)
 
 content:
   # Choose which groups/teams of users to display.
