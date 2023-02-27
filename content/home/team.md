@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: The 2nd iLoc Organization Team
+title: The 2nd iLoc Workshop Organizers
 subtitle: 
 
 content:
@@ -25,3 +25,4 @@ design:
 ---
 
 Corresponding person: Philippe Xu ([philippe.xu@hds.utc.fr](mailto:philippe.xu@hds.utc.fr))
+
