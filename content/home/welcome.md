@@ -18,7 +18,7 @@ cta_alt:
 cta_note:
         label: >-
                     <div style="text-shadow: none;"><a class="github-button" href="https://2023.ieee-itsc.org/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">IEEE ITSC 2023 conference website</a></div>
-                    div style="text-shadow: none;"><a class="github-button" href="/workshop2/registration/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Registration guidelines</a></div>
+                    <div style="text-shadow: none;"><a class="github-button" href="/workshop2/registration/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Registration guidelines</a></div>
                     <div style="text-shadow: none;"><a class="github-button" href="https://sites.google.com/view/iloc-2022" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">1st iLoc workshop 2022</a></div>
 
 design:
