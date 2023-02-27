@@ -55,9 +55,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: compact
+  view: showcase
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
   # background:
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
