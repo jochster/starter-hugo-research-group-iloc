@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Philippe Bonnifait
+title: Prof. Dr. Philippe Bonnifait
 # Is this the primary user of the site?
 superuser: false
 
