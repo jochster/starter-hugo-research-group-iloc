@@ -19,8 +19,8 @@ feature:
     icon_pack: "custom"
     name: "i.c.sens (RTG 2159)"
     description: 
-  - icon:
-    icon_pack:
+  - icon: "DFG"
+    icon_pack: "custom"
     name: "DFG"
     description:
   - icon: "heud"
