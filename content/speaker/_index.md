@@ -1,5 +1,6 @@
 ---
-title: Invited Speakers (constantly updated)
+title: Invited Speakers
+subtitle: constantly updated
 
 # Listing view
 view: showcase
