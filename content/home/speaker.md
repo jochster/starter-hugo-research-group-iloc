@@ -1,9 +1,12 @@
-widget: portfolio
-headless: true  # This file represents a page section.
+---
+widget: "portfolio"
+headless: true
 
+weight: 30
 # ... Put Your Section Options Here (title etc.) ...
 title: Invited Speakers
 subtitle: ''
+active: true
 
 content:
   # Choose which content to display in the widget
@@ -49,3 +52,4 @@ design:
   view: masonry
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+---
