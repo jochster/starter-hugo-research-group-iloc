@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Prof. Dr. Steffen Schön
-weight: 6
+weight: 60
 
 # Is this the primary user of the site?
 superuser: false
