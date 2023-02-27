@@ -1,6 +1,6 @@
 ---
 title: 2nd iLoc organizers
-role: null
+role: "iLoc: High-integrity Localization for Automated Vehicles, IEEE ITSC2023"
 avatar_filename: avatar.png
 bio: null
 interests:
