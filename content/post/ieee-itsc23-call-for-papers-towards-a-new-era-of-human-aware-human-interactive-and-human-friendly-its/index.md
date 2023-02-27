@@ -1,7 +1,7 @@
 ---
 title: "IEEE ITSC'23 Call For Papers: Towards a New Era of Human-aware,
   Human-interactive, and Human-friendly ITS"
-date: 2023-02-27T01:25:22.057Z
+date: 2023-02-22T10:25:22.057Z
 summary: High-quality works presented in ITSC 2023 will be invited for their
   extension and submission to a special issue in IEEE Transactions on
   Intelligent Transportation Systems, in selected topics related to the scope of
