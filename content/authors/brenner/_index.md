@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Prof. Dr. Claus Brenner
+weight: 30
 
 # Is this the primary user of the site?
 superuser: false
