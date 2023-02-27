@@ -12,7 +12,7 @@ address:
   postcode: '48011'
   country: Spain
 
-summary: David Bevly received the B.S. degree from Texas A&M University, College Station, TX, USA, in 1995; the M.S. degree from Massachusetts Institute of Technology, Cambridge, MA, USA, in 1997; and the Ph.D. degree from Stanford University, Stanford, CA, USA, in 2001, all in mechanical engineering. In 2001, he joined the Department of Mechanical Engineering, Auburn University, Auburn, AL, USA, as an Assistant Professor. His current research interests include control systems, sensor fusion, global positioning system (GPS), state estimation, parameter identification, and vehicle dynamics as well as modeling and control of vehicle systems. He has also developed algorithms for navigation and control of off-road vehicles and methods for identifying critical vehicle parameters using GPS and inertial sensors.
+summary: David M. Bevly is the McNair Endowed Professor in the Department of Mechanical Engineering and director of the GPS and Vehicle Dynamics Laboratory at Auburn University. David received his B.S. from Texas A&M University in 1995, M.S from Massachusetts Institute of Technology in 1997, and Ph.D. from Stanford University in 2001 in mechanical engineering. He joined the faculty of the Department of Mechanical Engineering at Auburn University in 2001 as an assistant professor. Dr. Bevly’s research interests include control systems, sensor fusion, GPS, state estimation, and parameter identification. His research focuses on vehicle dynamics as well as modeling and control of vehicle systems. Specifically, Dr. Bevly has developed algorithms for control of off-road vehicles and methods for identifying critical vehicle parameters using GPS and inertial sensors.
 
 abstract: ''
 
