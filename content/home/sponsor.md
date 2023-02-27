@@ -27,12 +27,12 @@ feature:
     icon_pack: "custom"
     name: "Heudiasyc Lab (UMR 7253)"
     description:
-  - icon:
-    icon_pack:
+  - icon: "Renault"
+    icon_pack: "custom"
     name: "Renault"
     description:
-  - icon:
-    icon_pack:
+  - icon: "itc"
+    icon_pack: "custom"
     name: "ITC"
     description:
 ---
