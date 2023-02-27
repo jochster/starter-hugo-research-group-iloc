@@ -16,6 +16,7 @@ design:
     text_color_light: true
 ---
 {{< figure src="https://2023.ieee-itsc.org/wp-content/uploads/2022/10/el-edificio-0x300-c-default.jpg" id="venue" >}}
+![screen reader text](https://2023.ieee-itsc.org/wp-content/uploads/2022/10/el-edificio-0x300-c-default.jpg "caption")
 
 The ITSC 2023 conference will be held at the Euskalduna Conference Centre located in the center of Bilbao, Bizkaia, Spain.
 The workshop room will be announced later. 
