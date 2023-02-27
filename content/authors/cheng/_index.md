@@ -13,12 +13,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher and MSCA posdoctoral fellow at the ITC Faculty Geo-Information Science and Earth Observation, University of Twente, the Netherlands. 
 
- interests:
+interests:
   - deep learning
   - road user behavior modeling in intelligent transport systems and autonomous driving
   - safety analysis between vehicles and vulnerable road users
 
- education:
+education:
   courses:
     - course: Ph.D. degree (with distinction)
       institution: Faculty of Civil Engineering and Geodetic Science, Leibniz University Hannover, Germany
