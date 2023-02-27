@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Prof. Dr. Philippe Xu
+weight: 10
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -18,7 +20,8 @@ bio: Associate professor in the Computer Science department of UTC
 interests:
   - information fusion
   - computer vision
-  - machine learning applied to localization and perception for autonomous vehicles
+  - machine learning 
+  - localization and perception for autonomous vehicles
 
 education:
   courses:
