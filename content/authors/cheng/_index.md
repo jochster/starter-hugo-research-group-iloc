@@ -7,24 +7,25 @@ superuser: false
 # Role/position
 role:  Researcher and MSCA posdoctoral fellow at the ITC Faculty Geo-Information Science and Earth Observation
 organizations:
-  - name: University of Twente
+  - name: University of Twente, the Netherlands
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher and MSCA posdoctoral fellow at the ITC Faculty Geo-Information Science and Earth Observation, University of Twente, the Netherlands. 
 
-# interests:
-#  - intelligent vehicles
-#  - high-integrity positioning and map-matching for autonomous navigation on roads opened to public traffic.
+ interests:
+  - deep learning
+  - road user behavior modeling in intelligent transport systems and autonomous driving
+  - safety analysis between vehicles and vulnerable road users
 
-# education:
-#  courses:
-#    - course: Ph.D. degree
-#      institution: Université de Technologie de Compiègne (UTC), France
-#      year: 2014
-#    - course: M.S. degree in computer science
-#      institution: the Ecole Normale Supérieure de Cachan, France
-#      year: 2011
+ education:
+  courses:
+    - course: Ph.D. degree (with distinction)
+      institution: Faculty of Civil Engineering and Geodetic Science, Leibniz University Hannover, Germany
+      year: 2021
+    - course: M.Sc. degree (with distinction) in Internet Technologies and Information Systems
+      institution: TU Braunschweig, Leibniz University Hannover, TU Clausthal, and University Göttingen, Germany
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
