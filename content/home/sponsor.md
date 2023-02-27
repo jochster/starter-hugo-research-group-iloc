@@ -38,6 +38,6 @@ feature:
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0", "200px",  "0", "200px"]
+    padding: ["0", "0px",  "0", "0px"]
     
 ---
