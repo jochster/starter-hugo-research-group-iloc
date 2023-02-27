@@ -9,7 +9,7 @@ High-integrity Localization for Automated Vehicles"
 hero_media: null
 cta:
         label: Submit your paper!
-        url: /participation/contribution
+        url: /workshop2/cfp/
         icon_pack: fas
         icon: file
 cta_alt:
