@@ -17,16 +17,16 @@ subtitle:
 feature:
   - icon: "icsens"
     icon_pack: "custom"
-    name: "i.c.sens (RTG 2159)"
-    description: 
+    name: "i.c.sens"
+    description: "RTG 2159"
   - icon: "DFG"
     icon_pack: "custom"
     name: "DFG"
     description:
   - icon: "heud"
     icon_pack: "custom"
-    name: "Heudiasyc Lab (UMR 7253)"
-    description:
+    name: "Heudiasyc"
+    description: "UMR 7253"
   - icon: "Renault"
     icon_pack: "custom"
     name: "Renault"
@@ -38,6 +38,6 @@ feature:
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0", "20px",  "0", "20px"]
+    padding: ["0", "200px",  "0", "200px"]
     
 ---
