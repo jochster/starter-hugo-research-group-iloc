@@ -31,4 +31,8 @@ feature:
     icon_pack:
     name: "Renault"
     description:
+  - icon:
+    icon_pack:
+    name: "ITC"
+    description:
 ---
