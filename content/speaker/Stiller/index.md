@@ -12,7 +12,7 @@ address:
   postcode: '48011'
   country: Spain
 
-summary: KIT
+summary: The Institute of Measurement and Control Systems at the Karlsruhe Institute of Technology (KIT), lead by Prof. Dr.-Ing. Christoph Stiller, and the Research Center for Information Technology (FZI) jointly research various topics along the full stack of autonomous driving. With their autonomously driving research vehicles, they successfully participated in various challenges, such as the DARPA Urban Challenge or the Grand Cooperative Driving Challenges. Moreover, they are known for widely used research datasets, such as the KITTI Vision Benchmark Suite and the INTERACTION Dataset. Finally, with Lanelet2, they developed one of the leading open-source HD map frameworks.
 abstract: ''
 
 # Talk start and end times.
