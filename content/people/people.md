@@ -25,4 +25,4 @@ design:
   show_social: true
 ---
 
-Corresponding person: Philippe Xu ([philippe.xu@hds.utc.fr](mailto:philippe.xu@hds.utc.fr)
+Corresponding person: Philippe Xu ([philippe.xu@hds.utc.fr](mailto:philippe.xu@hds.utc.fr))
