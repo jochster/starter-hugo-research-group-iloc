@@ -17,7 +17,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. candidate at the Institut für Erdmessung (IfE) at Leibniz University Hannover, Germany
 
-interest:
+interests:
   - GNSS navigation
   - alternative integrity approach
   - interval mathematics
