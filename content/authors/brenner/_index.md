@@ -17,6 +17,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Professor at the Institute of Cartography and Geoinformatics, Leibniz University Hannover. 
 
+interest:
+  - laser scanning
+  - image processing
+  - pattern recognition
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -26,6 +30,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:brenner@ikg.uni-hannover.de'
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.ikg.uni-hannover.de/en/institut/personenverzeichnis/brenner'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
