@@ -22,6 +22,12 @@ interest:
   - alternative integrity approach
   - interval mathematics
 
+education:
+  courses:
+    - course: M.S. degree in Earth-oriented Space Science and Technology
+      institution: Technical University of Munich
+      year: 2020
+      
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
