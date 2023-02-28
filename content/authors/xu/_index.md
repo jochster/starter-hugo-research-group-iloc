@@ -40,9 +40,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:philippe.xu@hds.utc.fr'
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.hds.utc.fr/~xuphilip/dokuwiki/'
 #  - icon: google-scholar
 #    icon_pack: ai
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#    link: https://www.hds.utc.fr/~xuphilip/dokuwiki/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,4 +64,4 @@ highlight_name: false
 user_groups:
   - Organizers
 ---
-He received his M.S. degree in computer science from the Ecole Normale Supérieure de Cachan, France, in 2011. He received his Ph.D. degree from the Université de Technologie de Compiègne (UTC), France, in 2014. Since 2015, he is an associate professor in the Computer Science department of UTC and is carrying out his research in Heudiasyc UMR 7253 (UTC/CNRS). Since 2017, he is also a member of SIVALab a joint laboratory between Renault and Heudiasyc which aim is to study and develop high integrity localization and perception systems for autonomous vehicles. His research interests cover information fusion, computer vision and machine learning applied to localization and perception for autonomous vehicles.
+Philippe Xu received his M.S. degree in computer science from the Ecole Normale Supérieure de Cachan, France, in 2011. He received his Ph.D. degree from the Université de Technologie de Compiègne (UTC), France, in 2014. Since 2015, he is an associate professor in the Computer Science department of UTC and is carrying out his research in Heudiasyc UMR 7253 (UTC/CNRS). Since 2017, he is also a member of SIVALab a joint laboratory between Renault and Heudiasyc which aim is to study and develop high integrity localization and perception systems for autonomous vehicles. His research interests cover information fusion, computer vision and machine learning applied to localization and perception for autonomous vehicles.
