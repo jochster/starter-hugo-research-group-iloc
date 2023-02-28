@@ -25,6 +25,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:schoen@ife.uni-hannover.de'
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.ife.uni-hannover.de/en/schoen'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -44,4 +47,4 @@ user_groups:
   - Organizers
 ---
 
-He is currently a professor for positioning and navigation in the geodesy department. He is spokesperson of the research training group I.c.sens and the current research focus is on GNSS-based urban navigation, collaborative positioning as well as  alternative integrity monitoring.
+He is currently a professor for positioning and navigation in the geodesy department. He is spokesperson of the research training group I.c.sens and the current research focus is on GNSS-based urban navigation, collaborative positioning as well as alternative integrity monitoring.
