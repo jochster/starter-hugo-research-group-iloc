@@ -15,11 +15,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Professor at Heudiasyc Lab, Université de technologie de Compiègne, France
 
-# interests:
-#  - intelligent vehicles
-#  - high-integrity positioning and map-matching for autonomous navigation on roads opened to public traffic.
+interests:
+  - intelligent vehicles
+  - high-integrity positioning
+  - map-matching for autonomous navigation
 
 # education:
 #  courses:
@@ -38,9 +39,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:philippe.bonnifait@hds.utc.fr'
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: globe
+    icon_pack: fas
+    link: https://www.hds.utc.fr/~bonnif/dokuwiki/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
