@@ -20,7 +20,13 @@ bio: Ph.D. candidate at the Institute of Cartography and Geoinformatics (IKG), L
 interests:
   - vehicle localization using LiDAR data 
   - localization integrity
-  
+
+education:
+  courses:
+    - course: M.S. degree in Navigation and Field Robotics
+      institution: Leibniz University Hannover, Germany
+      year: 2020
+      
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
