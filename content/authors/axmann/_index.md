@@ -17,7 +17,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. candidate at the Institute of Cartography and Geoinformatics (IKG), Leibniz University Hannover, Germany
 
-interest:
+interests:
   - vehicle localization using LiDAR data 
   - localization integrity
   
