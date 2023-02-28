@@ -17,7 +17,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Professor at the Institute of Cartography and Geoinformatics, Leibniz University Hannover. 
 
-interest:
+interests:
   - laser scanning
   - image processing
   - pattern recognition
@@ -51,4 +51,4 @@ highlight_name: false
 user_groups:
   - Organizers
 ---
-His is currently a professor at the Institute of Cartography and Geoinformatics, Leibniz University Hannover. He received his Ph.D. at the University of Stuttgart, Faculty of Civil Engineering and Surveying in 2000. Since 2002, he is the head of the Junior Research Group ``Automatic Methods for Fusion, Reduction and Consistent Combination of Complex Heterogeneous Geoinformation". He received the Internationaler Carl Pulfrich award in 2001. His research interests are laser scanning, image processing, and pattern recognition.
+Claus Brenner is currently a professor at the Institute of Cartography and Geoinformatics, Leibniz University Hannover. He received his Ph.D. at the University of Stuttgart, Faculty of Civil Engineering and Surveying in 2000. Since 2002, he is the head of the Junior Research Group ``Automatic Methods for Fusion, Reduction and Consistent Combination of Complex Heterogeneous Geoinformation". He received the Internationaler Carl Pulfrich award in 2001. His research interests are laser scanning, image processing, and pattern recognition.
