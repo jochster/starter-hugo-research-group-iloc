@@ -22,9 +22,7 @@ content:
       
       - Decision notification: June 30, 2023
       
-      - Final paper submission: July 31, 2023
-      
-      September 24th, 2023 @ Bilbao, Spain'
+      - Final paper submission: July 31, 2023'
       align: left
       background:
         position: right
