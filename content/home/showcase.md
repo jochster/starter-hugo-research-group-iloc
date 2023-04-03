@@ -16,13 +16,13 @@ design:
 content:
   slides:
     - title: CALL FOR WORKSHOP PAPERS & POSTERS
-      content: 'Submit your paper with the Workshop Code **u41sy** 
+      content: 'Submit your paper with the Workshop Code **u41sy** {style="color: red"}
       
-      - Submission deadline: May 15, 2023
+      - Submission deadline: *May 15, 2023*
       
-      - Decision notification: June 30, 2023
+      - Decision notification: *June 30, 2023*
       
-      - Final paper submission: July 31, 2023'
+      - Final paper submission: *July 31, 2023*'
       align: left
       background:
         position: right
