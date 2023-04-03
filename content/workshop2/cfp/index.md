@@ -4,18 +4,18 @@ subtitle:
 date: 2023-02-26T12:00:00.000Z
 ---
 > [Download our CFP>>](uploads/iLoc2023-poster.pdf) 
-
+{{% callout note %}} [Download our CFP>>](uploads/iLoc2023-poster.pdf) {{% /callout %}}
 ![](line.png)
 
 {{< toc >}}
 
 ![](line.png)
-# Scope Of the Workshop
+## Scope Of the Workshop
 
 This workshop aims to address the localization integrity requirements of automated vehicles. The concept of integrity is defined as “a measure of trust which can be placed in the correctness of the information supplied by the total system”. In particular, it is a critical performance indicator for the navigation of highly automated vehicles (e.g., SAE L3 and above). To guarantee the safe driving of an AV in varying environments, measures of the localization information gathered from different sensors, such as LiDAR, IMU and GNSS, are required. Continuously and reliably estimating a vehicle’s position in varying driving environments is essential for autonomous driving and safe operation. However, dynamic and complex traffic environments make high-integrity localization very challenging in the vehicular domain. In our 2nd iLoc workshop, we want to emphasize the importance of integrity in ITS and address the scientific challenges in managing localization integrity for vehicle navigation in complex traffic environments, including its use as part of perception tasks.
 
 ![](line.png)
-# Topics of Interest
+## Topics of Interest
 
 At this workshop, the research topics of interests include but are not limited to:
 
@@ -31,21 +31,21 @@ At this workshop, the research topics of interests include but are not limited t
 * State-of-the-art deep learning multi-modal data fusion for e.g., GNSS, LiDAR point clouds, images, 3D map localization information with integrity estimation.
 
 ![](line.png)
-# Workshop Sessions
+## Workshop Sessions
 
 The workshop is organized over a full day divided into four sessions (two in the morning and two in the afternoon). Each session contains at least one invited speaker and one workshop paper. A poster session is also planned between the morning and afternoon sessions to facilitate discussions among participants.
 
-## Invited Talks
+### Invited Talks
 
 The list of our invited speakers is being constantly updated. Check out the up-to-date list: [\>>](/speaker)
 ***
-## Paper Presentations
+### Paper Presentations
 
 All workshop papers will be peer-reviewed and included in the ITSC conference proceedings.
 
 All accepted workshop papers will be offered a time slot for an oral presentation. 
 ***
-## Poster Session
+### Poster Session
 
 In addition to oral presentations, the 2nd iLoc workshop invites contributions to our poster session. All poster presentors will be provided **physical poster boards**, but they are responsible for their own printing work. Workshop paper authors are also encouraged to participate in the poster session.
 
@@ -53,7 +53,7 @@ More information on the poster session will be made available soon.
 
 
 ![](line.png)
-# Paper Submission Timelines
+## Paper Submission Timelines
 
 * Paper submission deadline: <span style="color: DodgerBlue;">May 15, 2023</span>
 * Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
@@ -61,7 +61,7 @@ More information on the poster session will be made available soon.
 * Workshop session: <span style="color: DodgerBlue;">September 24, 2023</span>
 
 ![](line.png)
-# Paper Submission Guidelines
+## Paper Submission Guidelines
 
 To submit your workshop paper, please use the[ papercept platform](https://its.papercept.net/conferences/scripts/start.pl) by IEEE-ITSC 2023
 
@@ -89,7 +89,7 @@ Page limit:
 * For the final submission, a manuscript should be in letter format of 6 pages, with 2 additional pages allowed but at an extra charge.
 
 ![](line.png)
-# Poster Submission Guidlines
+## Poster Submission Guidlines
 If you wish to submit a contribution to our poster session, please note:
 * You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
 * Your contribution will not be peer-reviewed, if you fail in submitting your manuscript via ITSC-2023 papercept platform before the submission deadline,
