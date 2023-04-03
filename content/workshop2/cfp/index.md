@@ -46,7 +46,7 @@ All accepted workshop papers will be offered a time slot for oral presentation.
 ***
 ### Poster Session
 
-In addition to oral presentations, the 2nd iLoc workshop invites contributions to our poster session. All poster presentors will be provided **physical poster boards**, but they are responsible for their own printing work. Workshop paper authors are also encouraged to participate in the poster session.
+In addition to oral presentations, the 2nd iLoc workshop invites contributions to our poster session. All poster presenters will be provided **physical poster boards**, but they are responsible for their own printing work. Workshop paper authors are also encouraged to participate in the poster session.
 
 More information on the poster session will be made available soon.
 
@@ -91,7 +91,7 @@ Page limit:
 ## Poster Submission Guidlines
 If you wish to submit a contribution to our poster session, please note:
 * You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
-* Your contribution will not be peer-reviewed, if you fail in submitting your manuscript via ITSC-2023 papercept platform before the submission deadline,
+* Your contribution will not be peer-reviewed nor included in the conference proceedings, if you fail in submitting your manuscript via ITSC-2023 papercept platform before the submission deadline,
 * You will be invited to the poster session, if you submit your workshop paper successfully, and your manuscript is accepted to be included in the ITSC conference proceedings,
 * Please contact Philippe Xu (philippe.xu@hds.utc.fr) for a poster-only contribution (without a workshop paper submission)
 
