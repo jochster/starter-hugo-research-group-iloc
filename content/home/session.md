@@ -19,7 +19,7 @@ design:
 <img width="100%" src="media/featured_cfp.png">
 <img src="featured_cfp.png"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
-<img src="/media/featured_cfp.png"
+<img src="https://iloc-2023.netlify.app/uploads/featured_cfp.png"
      alt="this is an optional description of the image to help the blind and show up in case the
           image won't load"
      style="display:block; /* override the default display setting of `inline-block` */
