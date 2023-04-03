@@ -1,5 +1,5 @@
 ---
-title: 2nd iLoc workshop got accepted by IEEE-ITSC 2023
+title: "We got accepted by IEEE-ITSC 2023! "
 date: 2023-03-22T11:30:08.914Z
 draft: false
 featured: false
