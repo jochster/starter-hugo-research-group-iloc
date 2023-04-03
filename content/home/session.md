@@ -17,6 +17,18 @@ design:
 ---
 <span style="display:block;text-align:center">![](featured_cfp.png "")</span>
 <img width="100%" src="media/featured_cfp.png">
+<img src="https://i.stack.imgur.com/RJj4x.png"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+<img src="https://i.stack.imgur.com/RJj4x.png"
+     alt="this is an optional description of the image to help the blind and show up in case the
+          image won't load"
+     style="display:block; /* override the default display setting of `inline-block` */
+            float:none; /* override any prior settings of `left` or `right` */
+            /* set both the left and right margins to `auto` to center the image */
+            margin-left:auto;
+            margin-right:auto;
+            width:60%; /* optionally resize the image to a screen percentage width if you want too */
+            ">
 The iLoc workshop is to emphasize **the importance of integrity in ITS** addressing the scientific challenges with respect to _the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks_.
 
 ### Research Questions of Interest:
