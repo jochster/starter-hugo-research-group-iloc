@@ -15,22 +15,20 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the 2nd iLoc workshop
-      content: planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE ITSC
-      align: center
+    - title: CALL FOR WORKSHOP PAPERS & POSTERS
+      content: 'Submit your paper with the Workshop Code **u41sy**
+      
+      - Submission deadline: May 15, 2023
+      - Decision notification: June 30, 2023
+      - Final paper submission: July 31, 2023
+      
+      September 24th, 2023 @ Bilbao, Spain'
+      align: left
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: "driving-erik-mclean-unsplash.jpg"
-    - title: 👋 the 1st iLoc workshop
-      content: took place on June 5th, 2022 in Aachen, Germany at the 33rd IEEE IV Symposium
-      align: center
-      background:
-        position: right
-        color: '#666'
-        brightness: 0.7
-        media: iLoc2022.jpg
     - title: Scope of iLoc workshop
       content: 'to emphasize the importance of integrity in ITS addressing the scientific challenges with respect to the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks.'
       align: left
