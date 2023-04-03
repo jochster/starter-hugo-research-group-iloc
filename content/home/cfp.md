@@ -9,4 +9,5 @@ design:
   background:
     image: "featured_cfp.png"
 ---
-![](assets/media/cfp.png)
+![screen reader text](cfp.png "caption")
+{{< figure src="cfp.png" caption="A caption" numbered="true" >}}
