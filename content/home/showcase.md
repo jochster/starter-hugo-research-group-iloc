@@ -55,4 +55,12 @@ content:
         icon_pack: fas
         text: Conference website
         url: https://2023.ieee-itsc.org/
+    - title: 👋 the 1st iLoc workshop
+      content: took place on June 5th, 2022 in Aachen, Germany at the 33rd IEEE IV Symposium
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: iLoc2022.jpg
 ---
