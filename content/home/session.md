@@ -17,9 +17,9 @@ design:
 ---
 <span style="display:block;text-align:center">![](featured_cfp.png "")</span>
 <img width="100%" src="media/featured_cfp.png">
-<img src="https://i.stack.imgur.com/RJj4x.png"
+<img src="featured_cfp.png"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
-<img src="https://i.stack.imgur.com/RJj4x.png"
+<img src="/media/featured_cfp.png"
      alt="this is an optional description of the image to help the blind and show up in case the
           image won't load"
      style="display:block; /* override the default display setting of `inline-block` */
