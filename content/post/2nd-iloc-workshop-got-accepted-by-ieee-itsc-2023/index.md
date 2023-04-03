@@ -4,7 +4,7 @@ date: 2023-03-22T11:30:08.914Z
 draft: false
 featured: false
 authors:
-  - admin
+  - iLoc
 image:
   filename: featured
   focal_point: Smart
