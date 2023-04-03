@@ -3,14 +3,13 @@ title: Call for workshop paper & poster
 subtitle: 
 date: 2023-02-26T12:00:00.000Z
 ---
-> [Download our CFP>>](uploads/iLoc2023-poster.pdf) 
 {{% callout note %}} [Download our CFP>>](uploads/iLoc2023-poster.pdf) {{% /callout %}}
 ![](line.png)
 
 {{< toc >}}
 
 ![](line.png)
-## Scope Of the Workshop
+## Scope of the Workshop
 
 This workshop aims to address the localization integrity requirements of automated vehicles. The concept of integrity is defined as “a measure of trust which can be placed in the correctness of the information supplied by the total system”. In particular, it is a critical performance indicator for the navigation of highly automated vehicles (e.g., SAE L3 and above). To guarantee the safe driving of an AV in varying environments, measures of the localization information gathered from different sensors, such as LiDAR, IMU and GNSS, are required. Continuously and reliably estimating a vehicle’s position in varying driving environments is essential for autonomous driving and safe operation. However, dynamic and complex traffic environments make high-integrity localization very challenging in the vehicular domain. In our 2nd iLoc workshop, we want to emphasize the importance of integrity in ITS and address the scientific challenges in managing localization integrity for vehicle navigation in complex traffic environments, including its use as part of perception tasks.
 
@@ -53,16 +52,16 @@ More information on the poster session will be made available soon.
 
 
 ![](line.png)
-## Paper Submission Timelines
+
+## Paper Submission Guidelines
+Paper Submission Timelines
 
 * Paper submission deadline: <span style="color: DodgerBlue;">May 15, 2023</span>
 * Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
 * Final paper submission: <span style="color: DodgerBlue;">July 31, 2023</span>
 * Workshop session: <span style="color: DodgerBlue;">September 24, 2023</span>
 
-![](line.png)
-## Paper Submission Guidelines
-
+***
 To submit your workshop paper, please use the[ papercept platform](https://its.papercept.net/conferences/scripts/start.pl) by IEEE-ITSC 2023
 
 To contribute to our workshop, you should indicate our Workshop Code in your submission: 
