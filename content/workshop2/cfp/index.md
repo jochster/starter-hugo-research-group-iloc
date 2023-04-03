@@ -3,9 +3,7 @@ title: Call for workshop paper & poster
 subtitle: 
 date: 2023-02-26T12:00:00.000Z
 ---
-> Download our [CFP>>](uploads/iLoc2023-poster.pdf)
-
-{{< cta cta_text="{Download our CFP" cta_link="uploads/iLoc2023-poster.pdf" cta_new_tab="false" >}}
+> {< icon name="file-pdf" pack="fas" >}}[Download our CFP>>](uploads/iLoc2023-poster.pdf)
 
 ![](line.png)
 # Scope Of the Workshop
