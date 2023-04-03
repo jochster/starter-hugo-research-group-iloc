@@ -2,7 +2,7 @@
 widget: "blank"
 headless: true
 
-weight: 20
+weight: 40
 title: "Scope of The Workshop"
 subtitle:
 active: true
