@@ -16,7 +16,7 @@ design:
     text_color_light: true
 ---
 <img width="100%" src="https://iloc-2023.netlify.app/uploads/featured_cfp.png">
-The iLoc workshop is to emphasize <b>the importance of integrity in ITS<b/> addressing the scientific challenges with respect to <i>the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks<i/>.
+The iLoc workshop is to emphasize <b>the importance of integrity in ITS</b> addressing the scientific challenges with respect to <i>the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks</i>.
 
 ### Research Questions of Interest:
 - What are the <span style="color: DodgerBlue;">leading factors</span> for high-integrity localization for AVs, e.g., road geometry, vehicle dimension, sensor accuracy, environmental factors, vehicle motion, and other road users?
