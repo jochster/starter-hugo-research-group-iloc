@@ -17,7 +17,7 @@ design:
 ---
 ![](featured_cfp.png "")
 <p align="center">
-  <img src="featured_cfp.png" />
+  <img src="https://iloc-2023.netlify.app/media/featured_cfp.png" />
 </p>
 The iLoc workshop is to emphasize **<span style="color: DodgerBlue;">the importance of integrity in ITS</span>** addressing the scientific challenges with respect to _the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks_.
 
