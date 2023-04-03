@@ -40,9 +40,9 @@ The list of our invited speakers is being constantly updated. Check out the up-t
 ***
 ### Paper Presentations
 
-All workshop papers will be peer-reviewed and included in the ITSC conference proceedings.
+All accepted workshop papers will be peer-reviewed and included in the ITSC conference proceedings.
 
-All accepted workshop papers will be offered a time slot for an oral presentation. 
+All accepted workshop papers will be offered a time slot for oral presentation. 
 ***
 ### Poster Session
 
