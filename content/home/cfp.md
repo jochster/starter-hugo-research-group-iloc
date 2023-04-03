@@ -1,6 +1,6 @@
 ---
-title:
-subtitle:
+title:''
+subtitle:''
 widget: blank
 headless: true
 weight: 25
