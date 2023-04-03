@@ -16,10 +16,12 @@ design:
 content:
   slides:
     - title: CALL FOR WORKSHOP PAPERS & POSTERS
-      content: 'Submit your paper with the Workshop Code **u41sy**
+      content: 'Submit your paper with the Workshop Code **u41sy** 
       
       - Submission deadline: May 15, 2023
+      
       - Decision notification: June 30, 2023
+      
       - Final paper submission: July 31, 2023
       
       September 24th, 2023 @ Bilbao, Spain'
@@ -29,6 +31,11 @@ content:
         color: '#666'
         brightness: 0.7
         media: "driving-erik-mclean-unsplash.jpg"
+      link:
+        icon: arrow-up-from-bracket
+        icon_pack: fas
+        text: Papercept submission platform
+        url: https://its.papercept.net/conferences/scripts/start.pl
     - title: Scope of iLoc workshop
       content: 'to emphasize the importance of integrity in ITS addressing the scientific challenges with respect to the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks.'
       align: left
