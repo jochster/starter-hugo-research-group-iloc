@@ -4,7 +4,7 @@ subtitle:
 date: 2023-02-26T12:00:00.000Z
 ---
 > Download our [CFP>>](uploads/iLoc2023-poster.pdf)
-> {{< cta cta_text="{{< icon name="file-pdf" pack="fas" >}}Download our CFP" cta_link="uploads/iLoc2023-poster.pdf" cta_new_tab="false" >}}
+{{< cta cta_text="{{< icon name="file-pdf" pack="fas" >}}Download our CFP" cta_link="uploads/iLoc2023-poster.pdf" cta_new_tab="false" >}}
 
 ![](line.png)
 # Scope Of the Workshop
@@ -44,7 +44,7 @@ All accepted workshop papers will be offered a time slot for an oral presentatio
 ***
 ## Poster Session
 
-In addition to oral presentations, the 2nd iLoc workshop invites contributions to our poster session. All poster presentors will be provided **physical poster boards**, however, should take responsibility for their own printing work. Workshop paper authors are also encouraged to participate in the poster session.
+In addition to oral presentations, the 2nd iLoc workshop invites contributions to our poster session. All poster presentors will be provided **physical poster boards**, but they are responsible for their own printing work. Workshop paper authors are also encouraged to participate in the poster session.
 
 More information on the poster session will be made available soon.
 
