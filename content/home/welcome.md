@@ -9,7 +9,7 @@ High-integrity Localization for Automated Vehicles"
 hero_media: null
 cta:
         label: Call for paper&poster # Save the date! # Submit your paper!
-        url: /iLoc2023-poster.pdf
+        url: /uploads/iLoc2023-poster.pdf
         icon_pack: fas
         icon: file
 cta_alt:
