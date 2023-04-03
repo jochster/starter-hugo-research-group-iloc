@@ -17,9 +17,9 @@ design:
 ---
 ![](featured_cfp.png "")
 <p align="center">
-  <img src="https://iloc-2023.netlify.app/media/featured_cfp.png" />
+  <img src="/media/featured_cfp.png" />
 </p>
-The iLoc workshop is to emphasize **<span style="color: DodgerBlue;">the importance of integrity in ITS</span>** addressing the scientific challenges with respect to _the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks_.
+The iLoc workshop is to emphasize **the importance of integrity in ITS** addressing the scientific challenges with respect to _the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks_.
 
 ### Research Questions of Interest:
 - What are the <span style="color: DodgerBlue;">leading factors</span> for high-integrity localization for AVs, e.g., road geometry, vehicle dimension, sensor accuracy, environmental factors, vehicle motion, and other road users?
