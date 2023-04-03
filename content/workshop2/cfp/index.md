@@ -6,7 +6,7 @@ date: 2023-02-26T12:00:00.000Z
 # Scope
 
 This workshop aim to address the localization integrity requirements of automated vehicles. The concept of integrity is defined as “a measure of trust which can be placed in the correctness of the information supplied by the total system”. In particular, it is a critical performance indicator for the navigation of highly automated vehicles (e.g., SAE L3 and above). To guarantee the safe driving of an AV in varying environments, measures of the localization information gathered from different sensors, such as LiDAR, IMU and GNSS, are required. Continuously and reliably estimating a vehicle’s position in varying driving environments is essential for autonomous driving and safe operation. However, dynamic and complex traffic environments make high-integrity localization very challenging in the vehicular domain. In our 2nd iLoc workshop, we want to emphasize the importance of integrity in ITS and address the scientific challenges in managing localization integrity for vehicle navigation in complex traffic environments, including its use as part of perception tasks.
-***
+
 ![](line.png)
 # Topics of Interest
 
@@ -31,13 +31,13 @@ The workshop is organized over a full day divided into four sessions (two in the
 ## Invited talks
 
 The list of our invited speakers is being constantly updated. Check out the up-to-date list: [\>>](/speaker)
-
+***
 ## Paper presentations
 
 All workshop papers will be peer-reviewed and included in the ITSC conference proceedings.
 
 All accepted workshop papers will be offered a time slot for an oral presentation. 
-
+***
 ## Poster session
 
 In addition to oral presentations, the 2nd iLoc workshop invites contributions to our poster session. More information on the poster session will be made available soon.
