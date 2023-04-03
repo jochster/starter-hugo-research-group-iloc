@@ -9,4 +9,4 @@ design:
   background:
     image: "featured_cfp.png"
 ---
-
+![](assets/media/cfp.png)
