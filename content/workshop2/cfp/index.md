@@ -3,7 +3,9 @@ title: Call for workshop paper & poster
 subtitle: 
 date: 2023-02-26T12:00:00.000Z
 ---
-> [Download our CFP>>](uploads/iLoc2023-poster.pdf)
+> [Download our CFP>>](uploads/iLoc2023-poster.pdf) 
+
+{{< toc >}}
 
 ![](line.png)
 # Scope Of the Workshop
