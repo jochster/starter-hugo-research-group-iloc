@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: CALL FOR WORKSHOP PAPERS & POSTERS
-      content: 'Submit your paper with the Workshop Code **u41sy** {style="color: red"}
+      content: 'Submit your paper with the Workshop Code **u41sy** 
       
       - Submission deadline: *May 15, 2023*
       
