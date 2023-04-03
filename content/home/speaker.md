@@ -2,7 +2,7 @@
 widget: "portfolio"
 headless: true
 
-weight: 30
+weight: 50
 # ... Put Your Section Options Here (title etc.) ...
 title: Invited Speakers
 subtitle: ''
