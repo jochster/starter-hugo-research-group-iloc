@@ -4,6 +4,7 @@ subtitle:
 date: 2023-02-26T12:00:00.000Z
 ---
 > Download our [CFP>>](uploads/iLoc2023-poster.pdf)
+> {{< cta cta_text="{{< icon name="file-pdf" pack="fas" >}}Download our CFP" cta_link="uploads/iLoc2023-poster.pdf" cta_new_tab="false" >}}
 
 ![](line.png)
 # Scope Of the Workshop
