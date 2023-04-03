@@ -15,6 +15,19 @@ design:
 
 content:
   slides:
+    - title: ''
+      content: ''
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: "featured_cfp.png"
+      link:
+        icon: arrow-up-from-bracket
+        icon_pack: fas
+        text: Submit your paper
+        url: https://its.papercept.net/conferences/scripts/start.pl
     - title: CALL FOR WORKSHOP PAPERS & POSTERS
       content: 'Submit your paper with the Workshop Code **u41sy** 
       
