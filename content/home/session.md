@@ -15,6 +15,7 @@ design:
 #      gradient_angle: 180
     text_color_light: true
 ---
+![](featured_cfp.png "")
 The iLoc workshop is to emphasize **<span style="color: DodgerBlue;">the importance of integrity in ITS</span>** addressing the scientific challenges with respect to _the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks_.
 
 ### Research Questions of Interest:
