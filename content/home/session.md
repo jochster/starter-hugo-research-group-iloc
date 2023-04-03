@@ -15,10 +15,7 @@ design:
 #      gradient_angle: 180
     text_color_light: true
 ---
-<span style="display:block;text-align:center">![](featured_cfp.png "")</span>
-# <img width="100%" src="https://iloc-2023.netlify.app/uploads/featured_cfp.png">
-# <img src="https://iloc-2023.netlify.app/uploads/featured_cfp.png"
-#      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
+<img width="100%" src="https://iloc-2023.netlify.app/uploads/featured_cfp.png">
 The iLoc workshop is to emphasize **the importance of integrity in ITS** addressing the scientific challenges with respect to _the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks_.
 
 ### Research Questions of Interest:
