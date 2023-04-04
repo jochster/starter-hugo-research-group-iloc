@@ -1,5 +1,5 @@
 ---
-title: Call for workshop paper & poster
+title: Call for workshop papers
 subtitle: 
 date: 2023-02-26T12:00:00.000Z
 ---
@@ -39,14 +39,16 @@ The workshop is organized over a full day divided into four sessions (two in the
 The list of our invited speakers is being constantly updated. Check out the up-to-date list: [\>>](/speaker)
 ***
 ### Paper Presentations
+All submitted workshop papers will follow the peer review process of ITSC.
 
-All accepted workshop papers will be peer-reviewed and included in the ITSC conference proceedings.
+Accepted workshop papers will be included in the IEEE-ITSC 2023 conference proceedings.
 
-All accepted workshop papers will be offered a time slot for oral presentation. 
+Accepted workshop papers will be offered a time slot for oral presentation at the workshop. 
+
 ***
 ### Poster Session
 
-In addition to oral presentations, the 2nd iLoc workshop invites contributions to our poster session. All poster presenters will be provided **physical poster boards**, but they are responsible for their own printing work. Workshop paper authors are also encouraged to participate in the poster session.
+In addition to oral presentations, a poster session is planned between the morning and afternoon sessions to facilitate discussions among participants. All poster presenters will be provided **physical poster boards**, but they are responsible for their own printing work. Workshop paper authors are encouraged to participate in the poster session.
 
 More information on the poster session will be made available soon.
 
@@ -93,9 +95,7 @@ If you wish to submit a contribution to our poster session, please note:
 * You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
 * Your contribution will not be peer-reviewed nor included in the conference proceedings, if you fail in submitting your manuscript via ITSC-2023 papercept platform before the submission deadline,
 * You will be invited to the poster session, if you submit your workshop paper successfully, and your manuscript is accepted to be included in the ITSC conference proceedings,
-* Please contact Philippe Xu (philippe.xu@hds.utc.fr) for a poster-only contribution (without a workshop paper submission)
+* Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
 
-Poster submission deadline: 
-* Tentative: <span style="color: DodgerBlue;">August 31, 2023</span>
 
 > More information will be available soon.
