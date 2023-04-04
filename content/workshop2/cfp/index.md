@@ -39,9 +39,9 @@ The workshop is organized over a full day divided into four sessions (two in the
 The list of our invited speakers is being constantly updated. Check out the up-to-date list: [\>>](/speaker)
 ***
 ### Paper Presentations
-All submitted workshop papers will follow the peer review process of ITSC.
+All submitted workshop papers will follow the **peer review process** of ITSC.
 
-Accepted workshop papers will be included in the IEEE-ITSC 2023 conference proceedings.
+Accepted workshop papers will be included in the **IEEE-ITSC 2023 conference proceedings**.
 
 Accepted workshop papers will be offered a time slot for oral presentation at the workshop. 
 
@@ -66,7 +66,7 @@ Paper Submission Timelines
 ***
 To submit your workshop paper, please use the[ papercept platform](https://its.papercept.net/conferences/scripts/start.pl) by IEEE-ITSC 2023
 
-To contribute to our workshop, you should indicate our Workshop Code in your submission: 
+To contribute to our workshop, you should indicate our ***Workshop Code*** in your submission: 
 
 > <span style="color: Red;">***u41sy***</span>
 
@@ -90,10 +90,10 @@ Page limit:
 * For the final submission, a manuscript should be in letter format of 6 pages, with 2 additional pages allowed but at an extra charge.
 
 ![](line.png)
-## Poster Submission Guidlines
-If you wish to submit a contribution to our poster session, please note:
+## Poster Session Guidlines
+Please note:
 * You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
-* Your contribution will not be peer-reviewed nor included in the conference proceedings, if you fail in submitting your manuscript via ITSC-2023 papercept platform before the submission deadline,
+* Your submittion will not be peer-reviewed nor included in the conference proceedings, if you fail in submitting your manuscript via ITSC-2023 papercept platform before the submission deadline,
 * You will be invited to the poster session, if you submit your workshop paper successfully, and your manuscript is accepted to be included in the ITSC conference proceedings,
 * Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
 
