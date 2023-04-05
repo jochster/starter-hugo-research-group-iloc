@@ -3,7 +3,9 @@ widget: "blank"
 headless: true
 
 weight: 10
-title: ""
+title: "**The iLoc workshop** - \\
+
+High-integrity Localization for Automated Vehicles"
 subtitle:
 active: true
 
