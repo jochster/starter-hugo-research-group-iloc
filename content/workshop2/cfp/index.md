@@ -67,12 +67,14 @@ Paper Submission Timelines
 To submit your workshop paper, please use the[ PaperCept platform](https://its.papercept.net/conferences/scripts/start.pl) by IEEE-ITSC 2023
 ![](choose_workshop_paper.PNG)
 
+***
 To contribute to our workshop, you should indicate our ***Workshop Code*** in your submission: 
 
 > <span style="color: Red;">***u41sy***</span>
 
 ![](indicate_workshop_code.PNG)
 
+***
 To submit a manuscript via papercept, you must have the following items readily available:
 
 * Title of the manuscript.
@@ -87,10 +89,12 @@ To submit a manuscript via papercept, you must have the following items readily 
   * A single Word file based on template provided through [ieeeconf_letter.dot](http://its.papercept.net/conferences/support/word.php) and sample document [ieeeconf_letter.doc](http://its.papercept.net/conferences/support/word.php).
   * A singled zipped file containing all LaTeX sources, images, style/cls files including the ieeeconf.cls, bib files, with the main tex file called root.tex (documentclass must be a4paper). LaTeX style file [ieeeconf.cls](https://its.papercept.net/conferences/templates/ieeeconf.cls) and sample document [sample_new.tex](https://its.papercept.net/conferences/templates/sample_new.tex) (both on [ieeeconf.zip](http://its.papercept.net/conferences/support/tex.php)), BiBTeX files [IEEEtranBST.zip](http://its.papercept.net/conferences/support/tex.php).
 
+***
 Compliant conversion: 
 * ITSC 2023 subscribes to the PaperCept Compliant PDF Creation service. Simply upload the Word or LaTeX source file of your submission and the service converts it to compliant pdf. Be sure to use the Word template or LaTeX style file provided by the conference and follow the conference instructions concerning paper size, number of pages and page margins. See the [Support section at PaperCept](http://its.papercept.net/conferences/support).
 * It is the author's responsibility to use the correct template or style file and visually check the output from this automated pdf conversion process. PaperCept is not liable for inaccuracies in the generated output.
 
+***
 Page limit:
 
 * For the first submission, a manuscript in letter format can be of **6-8 pages**. 
