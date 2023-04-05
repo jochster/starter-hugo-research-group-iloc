@@ -2,7 +2,7 @@
 widget: "blank"
 headless: true
 
-weight: 20
+weight: 30
 title: "Venue"
 subtitle:
 active: true
