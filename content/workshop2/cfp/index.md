@@ -70,6 +70,7 @@ To submit your workshop paper, please use the[ PaperCept platform](https://its.p
 To contribute to our workshop, you should indicate our ***Workshop Code*** in your submission: 
 
 > <span style="color: Red;">***u41sy***</span>
+
 ![](indicate_workshop_code.PNG)
 
 To submit a manuscript via papercept, you must have the following items readily available:
