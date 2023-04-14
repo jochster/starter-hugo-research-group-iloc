@@ -45,4 +45,4 @@ At this workshop, the research topics of interests include but are not limited t
 
 # Paper S﻿ubmission Guidelines
 
-C﻿heck out [the submission guidelines >](/workshop2/cfp/)
+***C﻿heck out [the submission guidelines >](/workshop2/cfp/)***
