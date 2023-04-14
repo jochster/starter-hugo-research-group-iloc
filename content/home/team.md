@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: The 2nd iLoc Workshop Organizers
-subtitle: 
+subtitle: Corresponding person: Philippe Xu ([philippe.xu@hds.utc.fr](mailto:philippe.xu@hds.utc.fr))
 
 content:
   # Choose which groups/teams of users to display.
@@ -24,5 +24,5 @@ design:
   show_social: false
 ---
 
-Corresponding person: Philippe Xu ([philippe.xu@hds.utc.fr](mailto:philippe.xu@hds.utc.fr))
+
 
