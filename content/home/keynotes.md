@@ -20,7 +20,7 @@ content:
 design:
   show_interests: true
   show_role: true
-  show_organizations: true
+  show_organizations: false
   show_social: false
 ---
 Check out [keynote topics and speakers >> ](/speaker/)
