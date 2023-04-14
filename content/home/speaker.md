@@ -6,7 +6,7 @@ weight: 50
 # ... Put Your Section Options Here (title etc.) ...
 title: Invited Speakers
 subtitle: ''
-active: true
+active: false
 
 content:
   # Choose which content to display in the widget
