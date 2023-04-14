@@ -7,7 +7,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Associate Professor in the Department of Microelectronics at TU Delft
+role: Associate Professor in the Department of Microelectronics at TU Delft, the Netherlands
 
 # Organizations/Affiliations
 organizations:
