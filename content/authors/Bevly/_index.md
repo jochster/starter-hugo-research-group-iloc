@@ -15,7 +15,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: the McNair Endowed Professor in the Department of Mechanical Engineering and director of the GPS and Vehicle Dynamics Laboratory at Auburn University
+bio: ''
 
 interests:
   - control systems
