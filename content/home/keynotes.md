@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Invited Speakers
-subtitle: Check out [keynote topics and speakers »](/speaker/)
+title: '[Invited Speakers](/speaker/)'
+subtitle: Check out [all keynote topics and speakers »](/speaker/)
 
 content:
   # Choose which groups/teams of users to display.
