@@ -12,7 +12,7 @@ address:
   postcode: '48011'
   country: Spain
 
-summary: technical leader in the GNSS user and applications segment at GMV
+summary: Technical leader in the GNSS user and applications segment at GMV
 abstract: ''
 
 # Talk start and end times.
