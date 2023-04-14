@@ -15,7 +15,7 @@ image:
 
 > [Download our CFP>>](uploads/iLoc2023-poster.pdf) 
 
-{{< toc >}}
+
 
 # Scope
 
