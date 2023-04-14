@@ -12,8 +12,8 @@ address:
   postcode: '48011'
   country: Spain
 
-summary: Enrique Domínguez works at GMV as a technical leader in the GNSS user and applications segment. He received a M.Sc. degree in Telecommunications Engineering in 2000 and a Master in Space Technologies in 2009, both from the Polytechnic University of Madrid. He joined GMV in 2000 working first on the development of EGNOS and Galileo and, since 2009, mainly focused on GNSS software receivers, multi-sensor fusion algorithms, integrity algorithms, localization systems for autonomous driving vehicles and 5G positioning.
-abstract: 'Enrique Domínguez works at GMV as a technical leader in the GNSS user and applications segment. He received a M.Sc. degree in Telecommunications Engineering in 2000 and a Master in Space Technologies in 2009, both from the Polytechnic University of Madrid. He joined GMV in 2000 working first on the development of EGNOS and Galileo and, since 2009, mainly focused on GNSS software receivers, multi-sensor fusion algorithms, integrity algorithms, localization systems for autonomous driving vehicles and 5G positioning.'
+summary: technical leader in the GNSS user and applications segment at GMV
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -53,4 +53,4 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
+Enrique Domínguez works at GMV as a technical leader in the GNSS user and applications segment. He received a M.Sc. degree in Telecommunications Engineering in 2000 and a Master in Space Technologies in 2009, both from the Polytechnic University of Madrid. He joined GMV in 2000 working first on the development of EGNOS and Galileo and, since 2009, mainly focused on GNSS software receivers, multi-sensor fusion algorithms, integrity algorithms, localization systems for autonomous driving vehicles and 5G positioning.
