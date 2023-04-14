@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Dr. Justin Dauwels
+title: Prof. Dr.-Ing. Christoph Stiller
 weight: 10
 
 # Is this the primary user of the site?
