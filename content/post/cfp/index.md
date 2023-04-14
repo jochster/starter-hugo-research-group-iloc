@@ -38,10 +38,10 @@ At this workshop, the research topics of interests include but are not limited t
 
 # Paper S﻿ubmission T﻿imelines
 
-* M﻿ay 15, 2023 paper submission deadline
-* J﻿une 30, 2023 decision notification
-* J﻿uly 31, 2023 final paper submission
-* S﻿eptember 24, 2023 workshop session
+* Paper submission deadline: <span style="color: DodgerBlue;">May 15, 2023</span>
+* Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
+* Final paper submission: <span style="color: DodgerBlue;">July 31, 2023</span>
+* Workshop session: <span style="color: DodgerBlue;">September 24, 2023</span>
 
 # Paper S﻿ubmission Guidelines
 
