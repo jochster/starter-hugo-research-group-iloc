@@ -1,5 +1,5 @@
 ---
-title: Enrique Dominguez
+title: Invited talk by Enrique Dominguez
 
 event: Enrique Dominguez
 event_url: 
