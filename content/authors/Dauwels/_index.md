@@ -15,7 +15,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in the Department of Microelectronics at TU Delft, the Netherlands
+bio: ''
 
 interests:
   - Bayesian statistics
