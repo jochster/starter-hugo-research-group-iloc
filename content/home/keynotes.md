@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Invited Speakers
-subtitle: 
+subtitle: Check out [keynote topics and speakers »](/speaker/)
 
 content:
   # Choose which groups/teams of users to display.
@@ -23,4 +23,4 @@ design:
   show_organizations: false
   show_social: false
 ---
-Check out [keynote topics and speakers >> ](/speaker/)
+
