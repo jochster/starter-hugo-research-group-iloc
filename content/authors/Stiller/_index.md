@@ -15,7 +15,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor in the Department of Measurement and Control (MRT) at Karlsruhe Institute of Technology (KIT), Germany
+bio: ''
 
 interests:
   - ''
