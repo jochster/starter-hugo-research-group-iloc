@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: '[Invited Speakers](/speaker/)'
-subtitle: Check out [all keynote topics and speakers »](/speaker/)
+subtitle: ''
 
 content:
   # Choose which groups/teams of users to display.
