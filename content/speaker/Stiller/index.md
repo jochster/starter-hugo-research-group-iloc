@@ -1,5 +1,5 @@
 ---
-title: Prof. Dr. Christoph Stiller
+title: Invited talk by Prof. Dr. Christoph Stiller
 
 event: Christoph Stiller
 event_url: 
