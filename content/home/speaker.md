@@ -4,7 +4,7 @@ headless: true
 
 weight: 50
 # ... Put Your Section Options Here (title etc.) ...
-title: Invited Speakers
+title: [Invited Speakers](/speaker/)
 subtitle: ''
 active: false
 
