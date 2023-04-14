@@ -1,5 +1,5 @@
 ---
-title: Prof. Dr. Justin Dauwels
+title: Invited talk by Prof. Dr. Justin Dauwels
 
 event: Justin Dauwels
 event_url: 
