@@ -23,3 +23,4 @@ design:
   show_organizations: true
   show_social: false
 ---
+Check out [keynote topics and speakers >> ](/speaker/)
