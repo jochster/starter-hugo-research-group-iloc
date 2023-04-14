@@ -15,7 +15,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Technical leader in the GNSS user and applications segment at GMV
+bio: ''
 
 interests:
   - GNSS software receivers
