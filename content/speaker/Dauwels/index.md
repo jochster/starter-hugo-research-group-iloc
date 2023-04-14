@@ -12,7 +12,12 @@ address:
   postcode: '48011'
   country: Spain
 
-summary: 'Associate Professor in the Department of Microelectronics at TU Delft'
+summary: 'Justin Dauwels starts in January 2021 as Associate Professor at TU Delft. Prior to this, he was Associate Professor with the School of Electrical & Electronic Engineering at Nanyang Technological University (NTU), Singapore.
+
+He obtained a PhD degree in electrical engineering at the Swiss Polytechnical Institute of Technology (ETH) in Zurich in December 2005. Next, in 2006-2007 he was a postdoc at the RIKEN Brain Science Institute, Japan (Prof. Shun-ichi Amari and Prof. Andrzej Cichocki), and a research scientist during 2008-2010 in the Stochastic Systems Group (SSG)at the Massachusetts Institute of Technology (MIT), led by Prof. Alan Willsky. He joined NTU in 2010.
+
+His research interests are in Bayesian statistics, iterative signal processing, computational neuroscience and perception error modeling for autonomous driving.
+'
 abstract: ''
 
 # Talk start and end times.
