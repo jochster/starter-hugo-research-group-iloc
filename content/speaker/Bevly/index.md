@@ -25,7 +25,6 @@ all_day: false
 publishDate: '2023-02-27T00:00:00Z'
 
 authors: 
-  - iLoc
   - Bevly
 tags: []
 
