@@ -10,6 +10,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-O﻿ur workshop has been accepted by **IEEE-ITSC 2023.** 
+Our workshop has been accepted by **IEEE-ITSC 2023.** 
 
 Check out [\>> the announcement <<](https://2023.ieee-itsc.org/workshops/)
