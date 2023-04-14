@@ -18,7 +18,11 @@ organizations:
 bio: ''
 
 interests:
-  - ''
+  - intelligent vehicles
+  - autonomous driving
+  - autonomous vehicles
+  - machine vision
+  - intelligent transportation systems
 
 # education:
 #  courses:
