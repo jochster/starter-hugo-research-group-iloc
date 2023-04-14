@@ -1,5 +1,5 @@
 ---
-title: Prof. Dr. David M. Bevly
+title: Invited talk by Prof. Dr. David M. Bevly
 
 event: David M. Bevly
 event_url: 
