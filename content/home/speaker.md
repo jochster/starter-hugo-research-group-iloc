@@ -4,7 +4,7 @@ headless: true
 
 weight: 50
 # ... Put Your Section Options Here (title etc.) ...
-title: [Invited Speakers](\speaker\)
+title: Invited Speakers
 subtitle: Check out [keynote topics and speakers »](\speaker\)
 active: false
 
