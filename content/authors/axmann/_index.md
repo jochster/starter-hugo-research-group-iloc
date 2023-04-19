@@ -56,4 +56,4 @@ highlight_name: false
 user_groups:
   - Organizers
 ---
-Jeildrik Axmann joined the Institute of Cartography and Geoinformatics Hannover, Germany, as a Ph.D. candidate of the DFG research training group i.c.sens in 2020. He received his M.Sc. degree in Navigation and Field Robotics in the same university. His research domain is vehicle localization using LiDAR data and localization integrity. In particular, he works on robust localization approaches using the maximum consensus criterion.
+Jeldrik Axmann joined the Institute of Cartography and Geoinformatics Hannover, Germany, as a Ph.D. candidate of the DFG research training group i.c.sens in 2020. He received his M.Sc. degree in Navigation and Field Robotics in the same university. His research domain is vehicle localization using LiDAR data and localization integrity. In particular, he works on robust localization approaches using the maximum consensus criterion.
