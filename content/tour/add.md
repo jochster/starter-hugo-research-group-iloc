@@ -3,7 +3,7 @@ widget: contact
 widget_id: address
 headless: true
 weight: 80
-title: Address
+title: Conference building
 subtitle: null
 content:
   autolink: true
@@ -33,5 +33,5 @@ features:
 design:
   columns: "2"
 ---
+{{% callout note %}} [Download city map (PDF)>>](https://2023.ieee-itsc.org/wp-content/uploads/2022/10/bilbao_map_en.pdf) {{% /callout %}}
 
-https://2023.ieee-itsc.org/wp-content/uploads/2022/10/bilbao_map_en.pdf
