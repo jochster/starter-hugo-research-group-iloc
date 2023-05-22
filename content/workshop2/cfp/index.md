@@ -58,7 +58,7 @@ More information on the poster session will be made available soon.
 ## Paper Submission Guidelines
 Paper Submission Timelines
 
-* Paper submission deadline: <span style="color: DodgerBlue;">~~May 15, 2023~~ May 22, 2023</span>
+* Paper submission deadline: <span style="color: DodgerBlue;">~~May 15, 2023~~ ~~May 22, 2023~~ May 28, 2023</span>
 * Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
 * Final paper submission: <span style="color: DodgerBlue;">July 31, 2023</span>
 * Workshop session: <span style="color: DodgerBlue;">September 24, 2023</span>
