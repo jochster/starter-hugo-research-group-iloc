@@ -18,7 +18,7 @@ content:
     - title: CALL FOR WORKSHOP PAPERS
       content: 'Submit your paper with the Workshop Code: <span style="color: Red;">**u41sy**</span>
       
-      - Submission deadline: <span style="color: DodgerBlue;">~~May 15, 2023~~May 28, 2023</span>
+      - Submission deadline: <span style="color: DodgerBlue;">~~May 15, 2023~~ ~~May 22, 2023~~ May 28, 2023</span>
       
       - Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
       
