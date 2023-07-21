@@ -17,7 +17,7 @@ cta_alt:
         url: /workshop2/program/
 cta_note:
         label: >-
-                    <div style="text-shadow: none;"><a class="github-button" href="/workshop2/cfp/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Call for workshop papers</a></div>
+                    <div style="text-shadow: none;"><a class="github-button" href="/workshop2/cfp/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Submission guidelines</a></div>
                     <div style="text-shadow: none;"><a class="github-button" href="/workshop2/registration/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Registration guidelines</a></div>
                     <div style="text-shadow: none;"><a class="github-button" href="https://sites.google.com/view/iloc-2022" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">1st iLoc workshop 2022</a></div>
 
