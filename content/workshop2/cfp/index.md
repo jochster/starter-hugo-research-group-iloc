@@ -103,13 +103,17 @@ Page limit:
 ![](line.png)
 ## Poster Session Guidelines
 We are pleased to open a call for poster presentations in this workshop.
+
 The call is open to present novel, past or ongoing research related to the topics covered by the workshop.
+
 Authors that will present a related paper at the ITSC'23 conference are also more than welcome to present a poster in this workshop.
+
 Practical information:
 * Information to provide: a proposal should contain **the name and affiliation of the authors, a title, and an abstract**
 * Submission: the proposal needs to be sent to Dr. Philippe Xu (philippe.xu[at]hds.utc.fr)
 * Submission deadline: **August 15th**
 * Notification of acceptance: **August 16th**
+
 Please note:
 * You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
 * Your submission will not be peer-reviewed nor included in the conference proceedings if you fail to submit your manuscript via ITSC-2023 papercept platform before the paper submission deadline,
