@@ -8,8 +8,8 @@ title: "**The iLoc workshop** - \\
 High-integrity Localization for Automated Vehicles"
 hero_media: null
 cta:
-        label: Call for workshop papers # Save the date! # Submit your paper!
-        url: /uploads/iLoc2023-poster.pdf
+        label: Call for posters # Save the date! # Submit your paper!
+        url: /workshop2/posters/
         icon_pack: fas
         icon: file
 cta_alt:
@@ -17,7 +17,7 @@ cta_alt:
         url: /workshop2/program/
 cta_note:
         label: >-
-                    <div style="text-shadow: none;"><a class="github-button" href="/workshop2/cfp/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Paper submission guidelines</a></div>
+                    <div style="text-shadow: none;"><a class="github-button" href="/workshop2/cfp/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Save the date!</a></div>
                     <div style="text-shadow: none;"><a class="github-button" href="/workshop2/registration/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Registration guidelines</a></div>
                     <div style="text-shadow: none;"><a class="github-button" href="https://sites.google.com/view/iloc-2022" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">1st iLoc workshop 2022</a></div>
 
