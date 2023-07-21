@@ -110,13 +110,13 @@ Authors that will present a related paper at the ITSC'23 conference are also mor
 
 Practical information:
 * Information to provide: a proposal should contain **the name and affiliation of the authors, a title, and an abstract**
-* Submission: the proposal needs to be sent to Dr. Philippe Xu (philippe.xu[at]hds.utc.fr)
-* Submission deadline: **August 15th**
-* Notification of acceptance: **August 16th**
+* Submission: the proposal needs to be sent to Dr. Philippe Xu (philippe.xu@hds.utc.fr)
+* Submission deadline: <span style="color: DodgerBlue;">August 15, 2023</span>
+* Notification of acceptance: <span style="color: DodgerBlue;">August 16, 2023</span>
 
 Please note:
 * You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
 * Your submission will not be peer-reviewed nor included in the conference proceedings if you fail to submit your manuscript via ITSC-2023 papercept platform before the paper submission deadline,
-* You will be invited to the poster session, if you submit your workshop paper successfully and your manuscript is accepted to be included in the ITSC conference proceedings,
+* You will be invited to the poster session if you submit your workshop paper successfully and your manuscript is accepted to be included in the ITSC conference proceedings,
 * Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
 > Please stay tuned for more information.
