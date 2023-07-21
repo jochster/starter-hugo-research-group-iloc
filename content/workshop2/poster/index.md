@@ -1,6 +1,58 @@
 ---
-title: Call for poster
+title: Call for poster presentations
 subtitle: 
-date: 2023-02-26T12:00:00.000Z
+date: 2023-07-21T12:00:00.000Z
 ---
-Under construction. Will be available soon.
+{{% callout note %}} [Download our CFP (PDF)>>](https://iloc-2023.netlify.app/uploads/iLoc2023-poster.pdf) {{% /callout %}}
+![](line.png)
+
+{{< toc >}}
+
+![](line.png)
+## Scope of the Workshop
+
+This workshop aims to address the localization integrity requirements of automated vehicles. The concept of integrity is defined as “a measure of trust which can be placed in the correctness of the information supplied by the total system”. In particular, it is a critical performance indicator for the navigation of highly automated vehicles (e.g., SAE L3 and above). To guarantee the safe driving of an AV in varying environments, measures of the localization information gathered from different sensors, such as LiDAR, IMU and GNSS, are required. Continuously and reliably estimating a vehicle’s position in varying driving environments is essential for autonomous driving and safe operation. However, dynamic and complex traffic environments make high-integrity localization very challenging in the vehicular domain. In our 2nd iLoc workshop, we want to emphasize the importance of integrity in ITS and address the scientific challenges in managing localization integrity for vehicle navigation in complex traffic environments, including its use as part of perception tasks.
+
+![](line.png)
+## Topics of Interest
+
+At this workshop, the research topics of interest include but are not limited to:
+
+* What are the leading factors for high-integrity localization for AVs?
+* Which multi-sensor architectures and data fusion methods are best suited for autonomous driving?
+* How to estimate the uncertainty and integrity risks applicable to model-based and data-driven approaches to localization?
+* How can maps be used to increase localization integrity?
+* How to combine a vehicle kinematic model and road geometry to improve integrity estimation?
+* What are the integrity metrics needs for AVs?
+* Are there any emergent standards applicable to the estimation of integrity in ITS?
+* How to verify experimentally the system localization integrity when considering low risks?
+* Uncertainty estimation of LiDAR point clouds registration and imagery data processing in e.g., probabilistic and deep learning-based models
+* State-of-the-art deep learning multi-modal data fusion for e.g., GNSS, LiDAR point clouds, images, 3D map localization information with integrity estimation.
+
+![](line.png)
+### Poster Session
+
+In addition to oral presentations, two poster sessions are planned in the morning and afternoon sessions to facilitate discussions among participants. All poster presenters will be provided **physical poster boards**, but they are responsible for their own printing work. Workshop paper authors are encouraged to participate in the poster session.
+
+
+![](line.png)
+
+## Poster Session Guidelines
+We are pleased to open a call for poster presentations in this workshop.
+
+The call is open to present novel, past or ongoing research related to the topics covered by the workshop.
+
+Authors that will present a related paper at the ITSC'23 conference are also more than welcome to present a poster in this workshop.
+
+Practical information:
+* Information to provide: a proposal should contain **the name and affiliation of the authors, a title, and an abstract**
+* Submission: the proposal needs to be sent to Dr. Philippe Xu (philippe.xu@hds.utc.fr)
+* Submission deadline: <span style="color: DodgerBlue;">August 15, 2023</span>
+* Notification of acceptance: <span style="color: DodgerBlue;">August 16, 2023</span>
+
+Please note:
+* You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
+* Your submission will not be peer-reviewed nor included in the conference proceedings if you fail to submit your manuscript via ITSC-2023 papercept platform before the paper submission deadline,
+* You will be invited to the poster session if you submit your workshop paper successfully and your manuscript is accepted to be included in the ITSC conference proceedings,
+* Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
+> Please stay tuned for more information.
