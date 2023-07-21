@@ -6,7 +6,7 @@ date: 2023-02-26T23:00:00.000Z
 ### Workshop tentative program
 |    SESSION      |      TIME     |                                              TALK                                                             | 
 |-----------------|---------------|---------------------------------------------------------------------------------------------------------------|
-| Opening         | 08:45 – 09:15 | Introduction of iLoc (Philippe Xu), presentation of SIVALab (Philippe Bonnifait) and i.c.sens (Steffen Schön) |
+| Opening         | 08:45 – 09:15 | Philippe Xu, Philippe Bonnifait and Steffen Schön |
 | Session 1       | 09:15 – 10:00 | Dr. Scott Martin, Auburn University [invited talk]                                 |
 |                 | 10:30 – 11:30 | Fabian Ruwisch, Steffen Schön: GNSS Feature Map Aided RTK Positioning in Urban Trenches [workshop paper]|
 | Poster 1        | 10:30 – 11:30 | Coffee break and poster session 1                                                |
