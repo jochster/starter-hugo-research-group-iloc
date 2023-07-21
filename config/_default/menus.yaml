@@ -26,10 +26,14 @@ main:
   - name: Participation
     identifier: participation
     weight: 30
-  - name: Call for contribution
+  - name: Call for workshop papers
     parent: participation
     url: workshop2/cfp/
     weight: 10
+  - name: Call for poster presentations
+    parent: participation
+    url: workshop2/poster/
+    weight: 20
   - name: Registration guidelines
     parent: participation
     url: workshop2/registration/
