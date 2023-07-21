@@ -119,4 +119,4 @@ Please note:
 * Your submission will not be peer-reviewed nor included in the conference proceedings if you fail to submit your manuscript via ITSC-2023 papercept platform before the paper submission deadline,
 * You will be invited to the poster session, if you submit your workshop paper successfully and your manuscript is accepted to be included in the ITSC conference proceedings,
 * Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
-> More information will be available soon.
+> Please stay tuned for more information.
