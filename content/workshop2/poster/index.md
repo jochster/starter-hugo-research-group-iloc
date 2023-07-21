@@ -52,7 +52,7 @@ Practical information:
 
 Please note:
 * You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
-* Your submission will not be peer-reviewed nor included in the conference proceedings if you fail to submit your manuscript via ITSC-2023 papercept platform before the paper submission deadline,
+* The poster presentation will not be peer-reviewed nor included in the ITSC conference proceedings,
 * You will be invited to the poster session if you submit your workshop paper successfully and your manuscript is accepted to be included in the ITSC conference proceedings,
 * Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
 > Please stay tuned for more information.
