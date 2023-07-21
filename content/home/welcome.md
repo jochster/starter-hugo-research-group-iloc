@@ -9,7 +9,7 @@ High-integrity Localization for Automated Vehicles"
 hero_media: null
 cta:
         label: Call for posters # Save the date! # Submit your paper!
-        url: /workshop2/posters/
+        url: /workshop2/poster/
         icon_pack: fas
         icon: file
 cta_alt:
