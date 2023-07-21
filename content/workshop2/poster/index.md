@@ -30,14 +30,14 @@ At this workshop, the research topics of interest include but are not limited to
 * State-of-the-art deep learning multi-modal data fusion for e.g., GNSS, LiDAR point clouds, images, 3D map localization information with integrity estimation.
 
 ![](line.png)
-### Poster Session
+## Poster Sessions in the Workshop
 
 In addition to oral presentations, two poster sessions are planned in the morning and afternoon sessions to facilitate discussions among participants. All poster presenters will be provided **physical poster boards**, but they are responsible for their own printing work. Workshop paper authors are encouraged to participate in the poster session.
 
 
 ![](line.png)
 
-## Poster Session Guidelines
+## Poster Presentation Guidelines
 We are pleased to open a call for poster presentations in this workshop.
 
 The call is open to present novel, past or ongoing research related to the topics covered by the workshop.
