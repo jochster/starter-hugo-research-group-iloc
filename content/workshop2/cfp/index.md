@@ -16,7 +16,7 @@ This workshop aims to address the localization integrity requirements of automat
 ![](line.png)
 ## Topics of Interest
 
-At this workshop, the research topics of interests include but are not limited to:
+At this workshop, the research topics of interest include but are not limited to:
 
 * What are the leading factors for high-integrity localization for AVs?
 * Which multi-sensor architectures and data fusion methods are best suited for autonomous driving?
@@ -36,7 +36,7 @@ The workshop is organized over a full day divided into four sessions (two in the
 
 ### Invited Talks
 
-The list of our invited speakers is being constantly updated. Check out the up-to-date list: [\>>](/speaker)
+The list of our invited speakers is constantly updated. Check out the up-to-date list: [\>>](/speaker)
 ***
 ### Paper Presentations
 All submitted workshop papers will follow the **peer review process** of ITSC.
@@ -87,7 +87,7 @@ To submit a manuscript via papercept, you must have the following items readily 
 
   * A PDF file (version 1.4 or higher), have all fonts embedded/subsetted, in U.S. letter page size, searchable, non-password protected document.
   * A single Word file based on template provided through [ieeeconf_letter.dot](http://its.papercept.net/conferences/support/word.php) and sample document [ieeeconf_letter.doc](http://its.papercept.net/conferences/support/word.php).
-  * A singled zipped file containing all LaTeX sources, images, style/cls files including the ieeeconf.cls, bib files, with the main tex file called root.tex (documentclass must be a4paper). LaTeX style file [ieeeconf.cls](https://its.papercept.net/conferences/templates/ieeeconf.cls) and sample document [sample_new.tex](https://its.papercept.net/conferences/templates/sample_new.tex) (both on [ieeeconf.zip](http://its.papercept.net/conferences/support/tex.php)), BiBTeX files [IEEEtranBST.zip](http://its.papercept.net/conferences/support/tex.php).
+  * A single zipped file containing all LaTeX sources, images, style/cls files including the ieeeconf.cls, bib files, with the main tex file called root.tex (documentclass must be a4paper). LaTeX style file [ieeeconf.cls](https://its.papercept.net/conferences/templates/ieeeconf.cls) and sample document [sample_new.tex](https://its.papercept.net/conferences/templates/sample_new.tex) (both on [ieeeconf.zip](http://its.papercept.net/conferences/support/tex.php)), BiBTeX files [IEEEtranBST.zip](http://its.papercept.net/conferences/support/tex.php).
 
 ***
 Compliant conversion: 
@@ -101,12 +101,18 @@ Page limit:
 * For the final submission, a manuscript should be in letter format of 6 pages, with 2 additional pages allowed but at an extra charge.
 
 ![](line.png)
-## Poster Session Guidlines
+## Poster Session Guidelines
+We are pleased to open a call for poster presentations in this workshop.
+The call is open to present novel, past or ongoing research related to the topics covered by the workshop.
+Authors that will present a related paper at the ITSC'23 conference are also more than welcome to present a poster in this workshop.
+Practical information:
+* Information to provide: a proposal should contain **the name and affiliation of the authors, a title, and an abstract**
+* Submission: the proposal needs to be sent to Dr. Philippe Xu (philippe.xu[at]hds.utc.fr)
+* Submission deadline: **August 15th**
+* Notification of acceptance: **August 16th**
 Please note:
 * You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
-* Your submittion will not be peer-reviewed nor included in the conference proceedings, if you fail in submitting your manuscript via ITSC-2023 papercept platform before the submission deadline,
-* You will be invited to the poster session, if you submit your workshop paper successfully, and your manuscript is accepted to be included in the ITSC conference proceedings,
+* Your submission will not be peer-reviewed nor included in the conference proceedings if you fail to submit your manuscript via ITSC-2023 papercept platform before the paper submission deadline,
+* You will be invited to the poster session, if you submit your workshop paper successfully and your manuscript is accepted to be included in the ITSC conference proceedings,
 * Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
-
-
 > More information will be available soon.
