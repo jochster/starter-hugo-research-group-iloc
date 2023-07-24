@@ -16,11 +16,11 @@ design:
 content:
   slides:
     - title: CALL FOR POSTER PRESENTATIONS
-      content: open to present novel, past or ongoing research related to the topics covered by the workshop
+      content: 'open to present novel, past or ongoing research related to the topics covered by the workshop
       
       - Submission deadline: <span style="color: DodgerBlue;">Aug 15, 2023</span>
       
-      - Decision notification: <span style="color: DodgerBlue;">Aug 16, 2023</span>
+      - Decision notification: <span style="color: DodgerBlue;">Aug 16, 2023</span>'
       align: left
       background:
         position: right
