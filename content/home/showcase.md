@@ -31,7 +31,8 @@ content:
         icon: arrow-up-from-bracket
         icon_pack: fas
         text: Poster presentation guidelines
-        url: /workshop2/poster/      
+        url: /workshop2/poster/     
+        
     - title: CALL FOR WORKSHOP PAPERS
       content: 'Submit your paper with the Workshop Code: <span style="color: Red;">**u41sy**</span>
       
