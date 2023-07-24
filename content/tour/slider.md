@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Call for poster presentations
-      content: Poster sessions in the workshop: open to present novel, past or ongoing research related to the topics covered by the workshop
+      content: Poster sessions: open to present novel, past or ongoing research related to the topics covered by the workshop
       align: center
       background:
         position: right
