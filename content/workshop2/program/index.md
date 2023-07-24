@@ -1,9 +1,10 @@
 ---
 title: Program of the 2nd iLoc workshop
-subtitle: constantly updated
 date: 2023-02-26T23:00:00.000Z
 ---
-### Workshop tentative program
+
+{{% callout note %}} The program is tentative and will be updated constantly {{% /callout %}}
+
 |    SESSION      |      TIME     |                                              TALK                                                             | 
 |-----------------|---------------|---------------------------------------------------------------------------------------------------------------|
 | Opening         | 08:45 – 09:15 | Philippe Xu, Philippe Bonnifait and Steffen Schön |
