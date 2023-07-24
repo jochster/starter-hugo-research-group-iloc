@@ -51,8 +51,10 @@ Practical information:
 * Notification of acceptance: <span style="color: DodgerBlue;">August 16, 2023</span>
 
 Please note:
-* You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
+* Posters are printed and brought by authors to the conference venue. Information about local companies capable of printing posters can be provided by the ITSC'23 conference organizers on demand (itsc2023@tisasa.es),
 * The poster presentation will not be peer-reviewed nor included in the ITSC conference proceedings,
-* You will be invited to the poster session if you submit your workshop paper successfully and your manuscript is accepted to be included in the ITSC conference proceedings,
+* Poster size recommendations by ITSC'23 conference: *Panels allow for poster sizes of max. 95 cm (width) x 191 cm (height), with a vertical orientation. Standard A0 (841 x 1189 mm) is highly recommended. *
 * Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
+
+
 > Please stay tuned for more information.
