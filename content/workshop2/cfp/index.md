@@ -104,6 +104,7 @@ Page limit:
 
 ![](line.png)
 ## Poster Session Guidelines
+## Poster Presentation Guidelines
 We are pleased to open a call for poster presentations in this workshop.
 
 The call is open to present novel, past or ongoing research related to the topics covered by the workshop.
@@ -117,8 +118,9 @@ Practical information:
 * Notification of acceptance: <span style="color: DodgerBlue;">August 16, 2023</span>
 
 Please note:
-* You will be provided a **physical poster board** during the workshop. However, you should do printing work on your own,
-* Your submission will not be peer-reviewed nor included in the conference proceedings if you fail to submit your manuscript via ITSC-2023 papercept platform before the paper submission deadline,
-* You will be invited to the poster session if you submit your workshop paper successfully and your manuscript is accepted to be included in the ITSC conference proceedings,
+* Posters are printed and brought by authors to the conference venue. Information about local companies capable of printing posters can be provided by the ITSC'23 conference organizers on demand (itsc2023@tisasa.es),
+* The poster presentation will not be peer-reviewed nor included in the ITSC conference proceedings,
+* Poster size recommendations by ITSC'23 conference: _Panels allow for poster sizes of max. 95 cm (width) x 191 cm (height), with a vertical orientation. Standard A0 (841 x 1189 mm) is highly recommended._ ([> ITSC'23 paper presentation guidelines](https://2023.ieee-itsc.org/paper-presentation/))
 * Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
+
 > Please stay tuned for more information.
