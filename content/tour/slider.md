@@ -15,19 +15,42 @@ design:
 
 content:
   slides:
-    - title: Call for poster presentations
+    - title: CALL FOR POSTER PRESENTATIONS
       content: open to present novel, past or ongoing research related to the topics covered by the workshop
-      align: center
+      
+      - Submission deadline: <span style="color: DodgerBlue;">Aug 15, 2023</span>
+      
+      - Decision notification: <span style="color: DodgerBlue;">Aug 16, 2023</span>
+      align: left
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: "call_for_posters.png"
       link:
-        icon: graduation-cap
+        icon: arrow-up-from-bracket
         icon_pack: fas
-        text: CFP
+        text: Poster presentation guidelines
         url: /workshop2/poster/
+    - title: CALL FOR WORKSHOP PAPERS
+      content: 'Submit your paper with the Workshop Code: <span style="color: Red;">**u41sy**</span>
+      
+      - Submission deadline: <span style="color: DodgerBlue;">~~May 15, 2023~~ ~~May 22, 2023~~ May 28, 2023</span>
+      
+      - Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
+      
+      - Final paper submission: <span style="color: DodgerBlue;">July 31, 2023</span>'
+      align: left
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: "driving-erik-mclean-unsplash.jpg"
+      link:
+        icon: arrow-up-from-bracket
+        icon_pack: fas
+        text: Papercept submission platform
+        url: https://its.papercept.net/conferences/scripts/start.pl
     - title: 👋 Welcome to the 2nd iLoc workshop
       content: planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE ITSC
       align: center
