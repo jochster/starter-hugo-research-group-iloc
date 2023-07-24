@@ -15,6 +15,23 @@ design:
 
 content:
   slides:
+    - title: CALL FOR POSTER PRESENTATIONS
+      content: open to present novel, past or ongoing research related to the topics covered by the workshop
+      
+      - Submission deadline: <span style="color: DodgerBlue;">Aug 15, 2023</span>
+      
+      - Decision notification: <span style="color: DodgerBlue;">Aug 16, 2023</span>
+      align: left
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: "call_for_posters.png"
+      link:
+        icon: arrow-up-from-bracket
+        icon_pack: fas
+        text: Poster presentation guidelines
+        url: /workshop2/poster/      
     - title: CALL FOR WORKSHOP PAPERS
       content: 'Submit your paper with the Workshop Code: <span style="color: Red;">**u41sy**</span>
       
