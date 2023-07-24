@@ -53,7 +53,7 @@ Practical information:
 Please note:
 * Posters are printed and brought by authors to the conference venue. Information about local companies capable of printing posters can be provided by the ITSC'23 conference organizers on demand (itsc2023@tisasa.es),
 * The poster presentation will not be peer-reviewed nor included in the ITSC conference proceedings,
-* Poster size recommendations by ITSC'23 conference: *Panels allow for poster sizes of max. 95 cm (width) x 191 cm (height), with a vertical orientation. Standard A0 (841 x 1189 mm) is highly recommended. *
+* Poster size recommendations by ITSC'23 conference: _Panels allow for poster sizes of max. 95 cm (width) x 191 cm (height), with a vertical orientation. Standard A0 (841 x 1189 mm) is highly recommended._ ([> ITSC'23 paper presentation guidelines](https://2023.ieee-itsc.org/paper-presentation/))
 * Please contact Philippe Xu (philippe.xu@hds.utc.fr) in case of any questions.
 
 
