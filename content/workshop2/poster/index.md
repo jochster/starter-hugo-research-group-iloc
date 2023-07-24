@@ -32,7 +32,7 @@ At this workshop, the research topics of interest include but are not limited to
 ![](line.png)
 ## Poster Sessions in the Workshop
 
-In addition to oral presentations, two poster sessions are planned in the morning and afternoon sessions to facilitate discussions among participants. All poster presenters will be provided **physical poster boards**, but they are responsible for their own printing work. Workshop paper authors are encouraged to participate in the poster session.
+In addition to oral presentations, two poster sessions are planned in the morning and afternoon sessions to facilitate discussions among participants. All poster presenters will be provided **physical poster boards**, but they are responsible for their own printing work. 
 
 
 ![](line.png)
