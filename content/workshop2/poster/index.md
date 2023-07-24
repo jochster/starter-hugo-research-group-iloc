@@ -3,7 +3,7 @@ title: Call for poster presentations
 subtitle: 
 date: 2023-07-21T12:00:00.000Z
 ---
-{{% callout note %}} [Download our CFP (PDF)>>](https://iloc-2023.netlify.app/uploads/iLoc2023-poster.pdf) {{% /callout %}}
+{{% callout note %}} [Download our CFP (PDF)>>](https://iloc-2023.netlify.app/uploads/iLoc2023-call_for_poster.pdf) {{% /callout %}}
 ![](line.png)
 
 {{< toc >}}
