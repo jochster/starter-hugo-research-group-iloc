@@ -34,7 +34,7 @@ At this workshop, the research topics of interest include but are not limited to
 ![](line.png)
 ## Workshop Sessions
 
-The workshop is organized over a full day divided into four sessions (two in the morning and two in the afternoon). Each session contains at least one invited speaker and one workshop paper. A poster session is also planned between the morning and afternoon sessions to facilitate discussions among participants.
+The workshop is organized in two sessions. A poster session is planned inbetween to facilitate discussions among participants.
 
 ### Invited Talks
 
