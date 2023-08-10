@@ -3,7 +3,7 @@ title: Call for workshop papers
 subtitle: 
 date: 2023-02-26T12:00:00.000Z
 ---
-{{% callout note %}} Call for workshop papers are closed now. {{% /callout %}}
+{{% callout note %}} Call for workshop papers is closed now. {{% /callout %}}
 
 {{% callout note %}} [Download our CFP (PDF)>>](https://iloc-2023.netlify.app/uploads/iLoc2023-poster.pdf) {{% /callout %}}
 ![](line.png)
