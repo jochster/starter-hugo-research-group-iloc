@@ -9,8 +9,8 @@ date: 2023-02-26T23:00:00.000Z
 |    SESSION      |      TIME     |                                              TALK                                                             | 
 |-----------------|---------------|---------------------------------------------------------------------------------------------------------------|
 | Opening         | 14:00 – 14:30 | Philippe Xu, Philippe Bonnifait and Steffen Schön |
-| Session 1       | 14:30 – 15:00 | Dr. Scott Martin, Auburn University <span style="color: Red;">[invited talk]</span> <br>[> read more](/speaker/martin/) |
-|                 | 15:00 – 15:30 | Prof. Justin Dauwels, TU Delft <span style="color: Red;">[invited talk]</span><br>[> read more](/speaker/dauwels/)|
+| Session 1       | 14:30 – 15:00 | Dr. Scott Martin, <span style="color: Gray;">Auburn University</span> <span style="color: Red;">[invited talk]</span> <br>[> read more](/speaker/martin/) |
+|                 | 15:00 – 15:30 | Prof. Justin Dauwels, <span style="color: Gray;">TU Delft</span> <span style="color: Red;">[invited talk]</span><br>[> read more](/speaker/dauwels/)|
 |                 | 15:30 – 15:50 | David Bétaille, Cyril Meurie, Yann Cocheril: <br> Vision- and map-based non-line-of-sight satellites hybridized processing <span style="color: DodgerBlue;">[workshop paper]</span>|
 |                 | 15:50 – 16:10 | Fabian Ruwisch, Steffen Schön: <br> GNSS Feature Map Aided RTK Positioning in Urban Trenches <span style="color: DodgerBlue;">[workshop paper]</span>|
 |                 | 16:10 – 16:30 | Jeldrik Axmann, Claus Brenner: <br> Maximum Consensus based Localization and Protection Level Estimation using Synthetic LiDAR Range Images <span style="color: DodgerBlue;">[workshop paper]
@@ -20,7 +20,7 @@ date: 2023-02-26T23:00:00.000Z
 |                 |               | Maxime Noizet, Philippe Xu, Philippe Bonnifait: <br> Multi-sensor localization integrity for autonomous navigation of intelligent vehicles<br><span style="color: Gray;">_Université de technologie de Compiègne_</span> |
 |                 |               | Yunshuang Yuan, Hao Cheng, Michael Ying Yang, Monika Sester: <br> Generating Evidential BEV Maps in Continuous Driving Space<br><span style="color: Gray;">_Leibniz University Hannover & University of Twente_</span> |
 |                 |               | Other topics to be confirmed |
-| Session 2       | 17:30 – 18:00 | Enrique Dominguez, GMV <span style="color: Red;">[invited talk]</span><br>[> read more](/speaker/dominguez/)|</span>|
+| Session 2       | 17:30 – 18:00 | Enrique Dominguez, <span style="color: Gray;">GMV</span> <span style="color: Red;">[invited talk]</span><br>[> read more](/speaker/dominguez/)|</span>|
 |                 | 18:00 – 18:30 | <span style="color: Gray;">Invited speaker from KIT</span> <span style="color: Red;">[invited talk]</span><br>[> read more](/speaker/stiller/)|
 |                 | 18:30 – 18:50 | Elwan Héry, Philippe Xu, Philippe Bonnifait: <br> A study of different observation models for cooperative localization in platoons <span style="color: DodgerBlue;">[workshop paper]</span>|
 | Closing         | 18:50 – 19:00 |   |
