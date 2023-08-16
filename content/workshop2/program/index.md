@@ -14,14 +14,14 @@ date: 2023-02-26T23:00:00.000Z
 |                 | 15:30 – 15:50 | David Bétaille, Cyril Meurie, Yann Cocheril: Vision- and map-based non-line-of-sight satellites hybridized processing <span style="color: DodgerBlue;">[workshop paper]</span>|
 |                 | 15:50 – 16:10 | Fabian Ruwisch, Steffen Schön: GNSS Feature Map Aided RTK Positioning in Urban Trenches <span style="color: DodgerBlue;">[workshop paper]</span>|
 |                 | 16:10 – 16:30 | Jeldrik Axmann, Claus Brenner: Maximum Consensus based Localization and Protection Level Estimation using Synthetic LiDAR Range Images <span style="color: DodgerBlue;">[workshop paper]
-| Coffee break and poster session | 16:30 – 17:30 | Chen Zhu, Omar Garcia Crespillo, Daniel Gerbeth, Young-Hee Lee, Maximilian Simonetti, Wenhan Hao: Towards Navigation System Integrity for Urban Air Mobility – Concept Design and Preliminary Validation|
-|                 |               | Zekun Zhang, Penghui Xu, Guohao Zhang, Li-Ta Hsu: A Deep Learning Approach for GNSS-based Environment Detection in Urban Navigation|
-|                 |               | Anat Schaper, Steffen Schön: Multi-Agent Collaboration for High-Integrity Urban Navigation|
-|                 |               | Maxime Noizet, Philippe Xu, Philippe Bonnifait: Multi-sensor localization integrity for autonomous navigation of intelligent vehicles|
-|                 |               | Yunshuang Yuan, Hao Cheng, Michael Ying Yang, Monika Sester: Generating Evidential BEV Maps in Continuous Driving Space|
+| Coffee break and poster session | 16:30 – 17:30 | Chen Zhu, Omar Garcia Crespillo, Daniel Gerbeth, Young-Hee Lee, Maximilian Simonetti, Wenhan Hao: Towards Navigation System Integrity for Urban Air Mobility – Concept Design and Preliminary Validation<br> German Aerospace Center (DLR), Institute of Communications and Navigation|
+|                 |               | Zekun Zhang, Penghui Xu, Guohao Zhang, Li-Ta Hsu: A Deep Learning Approach for GNSS-based Environment Detection in Urban Navigation <br>Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University, Hong Kong|
+|                 |               | Anat Schaper, Steffen Schön: Multi-Agent Collaboration for High-Integrity Urban Navigation<br>Institut für Erdmssung (IfE), Leibniz Universität Hannover|
+|                 |               | Maxime Noizet, Philippe Xu, Philippe Bonnifait: Multi-sensor localization integrity for autonomous navigation of intelligent vehicles<br>Université de technologie de Compiègne |
+|                 |               | Yunshuang Yuan, Hao Cheng, Michael Ying Yang, Monika Sester: Generating Evidential BEV Maps in Continuous Driving Space<br>Leibniz University Hannover & University of Twente |
 |                 |               | Other topics to be confirmed |
 | Session 2       | 17:30 – 18:00 | Enrique Dominguez, GMV <span style="color: Red;">[invited talk]</span><br>[> read more](/speaker/dominguez/)|</span>|
-|                 | 18:00 – 18:30 | <span style="color: Gray;">Invited speaker from KIT</span><br> <span style="color: Red;">[invited talk]</span><br>[> read more](/speaker/stiller/)|
+|                 | 18:00 – 18:30 | <span style="color: Gray;">Invited speaker from KIT</span> <span style="color: Red;">[invited talk]</span><br>[> read more](/speaker/stiller/)|
 |                 | 18:30 – 18:50 | Elwan Héry, Philippe Xu, Philippe Bonnifait: A study of different observation models for cooperative localization in platoons <span style="color: DodgerBlue;">[workshop paper]</span>|
 | Closing         | 18:50 – 19:00 |   |
 
