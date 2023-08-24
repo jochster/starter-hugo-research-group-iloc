@@ -13,4 +13,4 @@ The ITSC organizing committee has released a detailed Workshop program. A search
 {{% callout note %}} [>> C﻿heck out the detailed program of iLoc workshop! ](/﻿workshop2/program/) {{% /callout %}}
 
 W﻿orkshop room number: [0D.2](https://www.euskaldunabilbao.com/en/space/room-0d/), Euskalduna Congress Hall
-{{% callout note %}} [>> C﻿heck out the conference venue](/﻿t﻿our/venue/) {{% /callout %}}
+{{% callout note %}} [>> C﻿heck out the conference venue](/﻿t﻿our/) {{% /callout %}}
