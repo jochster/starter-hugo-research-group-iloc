@@ -17,7 +17,9 @@ design:
 ---
 
 The ITSC 2023 conference will be held at the Euskalduna Conference Centre located in the center of Bilbao, Bizkaia, Spain.
-The workshop room will be announced later. 
+
+### Workshop room 
+[0D.2](https://www.euskaldunabilbao.com/en/space/room-0d/)
 
 ### Getting there
 You can get to the Euskalduna Congress Centre building by following these instructions:
