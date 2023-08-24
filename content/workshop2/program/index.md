@@ -21,7 +21,7 @@ date: 2023-02-26T23:00:00.000Z
 |                 |               | Yunshuang Yuan, Hao Cheng, Michael Ying Yang, Monika Sester: <br> Generating Evidential BEV Maps in Continuous Driving Space <span style="color: LimeGreen;">[poster]</span><br><span style="color: Gray;">_Leibniz University Hannover & University of Twente_</span> |
 |                 |               | Other topics to be confirmed |
 | Session 2       | 17:30 – 18:00 | Enrique Dominguez, <span style="color: Gray;">GMV</span> <span style="color: Red;">[invited talk]</span><br>[> read more](/speaker/dominguez/)|</span>|
-|                 | 18:00 – 18:30 | Bernd Kröper:<br> Localization of railway vehicles using the ferromagnetic fingerprint of rails  <span style="color: Red;">[invited talk]</span><br><span style="color: Gray;">The Institute of Measurement and Control Systems at the Karlsruhe Institute of Technology (KIT)</span> <br> [> read more](/speaker/stiller/)|
+|                 | 18:00 – 18:30 | Bernd Kröper:<br> Localization of railway vehicles using the ferromagnetic fingerprint of rails  <span style="color: Red;">[invited talk]</span><br><span style="color: Gray;">_The Institute of Measurement and Control Systems at the Karlsruhe Institute of Technology (KIT)_</span> <br> [> read more](/speaker/stiller/)|
 |                 | 18:30 – 18:50 | Elwan Héry, Philippe Xu, Philippe Bonnifait: <br> A study of different observation models for cooperative localization in platoons <span style="color: DodgerBlue;">[workshop paper]</span>|
 | Closing         | 18:50 – 19:00 |   |
 
