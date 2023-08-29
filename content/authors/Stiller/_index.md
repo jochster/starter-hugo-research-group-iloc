@@ -17,6 +17,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
+interests:
+  - onboard localization of railway vehicles with a focus on using the ferromagnetic fingerprint of rails
 
 # education:
 #  courses:
