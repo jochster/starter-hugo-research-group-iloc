@@ -1,5 +1,5 @@
 ---
-title: Invited talk by Bernd Kröper: 
+title: Invited talk by Bernd Kröper
 
 event: Bernd Kröper
 event_url: 
