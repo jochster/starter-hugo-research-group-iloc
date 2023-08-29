@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Prof. Dr.-Ing. Christoph Stiller
+title: Bernd Kröper
 weight: 10
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor in the Department of Measurement and Control (MRT) at Karlsruhe Institute of Technology (KIT), Germany
+role: Doctoral researcher at the Department of Measurement and Control (MRT) at Karlsruhe Institute of Technology (KIT), Germany
 
 # Organizations/Affiliations
 organizations:
@@ -17,12 +17,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-interests:
-  - intelligent vehicles
-  - autonomous driving
-  - autonomous vehicles
-  - machine vision
-  - intelligent transportation systems
 
 # education:
 #  courses:
@@ -62,5 +56,7 @@ highlight_name: false
 user_groups:
   - Invited Speakers
 ---
+Bernd Kröper received the B. Sc. and M. Sc. degree in Mechanical Engineering at the Karlsruhe Institute of Technology, Germany in 2017, where he is currently pursuing the Ph. D. degree. His current research interests are in onboard localization of railway vehicles with a focus on using the ferromagnetic fingerprint of rails.
+
 The Institute of Measurement and Control Systems at the Karlsruhe Institute of Technology (KIT), lead by Prof. Dr.-Ing. Christoph Stiller, and the Research Center for Information Technology (FZI) jointly research various topics along the full stack of autonomous driving. With their autonomously driving research vehicles, they successfully participated in various challenges, such as the DARPA Urban Challenge or the Grand Cooperative Driving Challenges. Moreover, they are known for widely used research datasets, such as the KITTI Vision Benchmark Suite and the INTERACTION Dataset. Finally, with Lanelet2, they developed one of the leading open-source HD map frameworks.
 
