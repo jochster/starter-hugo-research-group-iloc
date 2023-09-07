@@ -1,5 +1,5 @@
 ---
-title: iLoc workshop' final program announced!
+title: iLoc workshop's final program announced!
 date: 2023-09-07T20:29:01.771Z
 draft: false
 featured: false
