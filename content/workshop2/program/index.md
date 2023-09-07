@@ -3,8 +3,7 @@ title: Program of the 2nd iLoc workshop
 date: 2023-02-26T23:00:00.000Z
 ---
 
-{{% callout note %}} The program is tentative and will be updated constantly {{% /callout %}}
-{{% callout note %}} [Download the up-to-date program in PDF](https://iloc-2023.netlify.app/uploads/IEEE-ITSC-2023-Workshop-iLoc2-Program.pdf) {{% /callout %}}
+{{% callout note %}} [Download the final version of program in PDF](https://iloc-2023.netlify.app/uploads/IEEE-ITSC-2023-Workshop-iLoc2-Program-Final.pdf) {{% /callout %}}
 
 |    SESSION      |      TIME     |                                              TALK                                                             | 
 |-----------------|---------------|---------------------------------------------------------------------------------------------------------------|
