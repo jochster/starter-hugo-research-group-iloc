@@ -8,8 +8,8 @@ title: "**The iLoc workshop** - \\
 High-integrity Localization for Automated Vehicles"
 hero_media: null
 cta:
-        label: Call for posters # Save the date! # Submit your paper!
-        url: /uploads/iLoc2023-call_for_poster.pdf
+        label: Save the date! # Call for posters # Submit your paper!
+        url: /tour/
         icon_pack: fas
         icon: file
 cta_alt:
