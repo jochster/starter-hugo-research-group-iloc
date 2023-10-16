@@ -1,5 +1,5 @@
 ---
-title: Invited Speakers (constantly updated)
+title: Speakers
 
 # Listing view
 view: compact
