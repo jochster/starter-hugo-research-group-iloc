@@ -8,7 +8,7 @@ title: "**The iLoc workshop** - \\
 High-integrity Localization for Automated Vehicles"
 hero_media: null
 cta:
-        label: Save the date! # Call for posters # Submit your paper!
+        label: Presentations available!#Save the date! # Call for posters # Submit your paper!
         url: /tour/
         icon_pack: fas
         icon: file
@@ -37,7 +37,6 @@ design:
     text_color_light: true
 ---
 # <br>
-  The [***2nd iLoc workshop***](/) is planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE International Conference on Intelligent Transportation Systems.
+  The [***2nd iLoc workshop***](/) was held September 24th, 2023 in Bilbao, Spain at the 26th IEEE International Conference on Intelligent Transportation Systems.
   
-  See you in Bilbao!
 
