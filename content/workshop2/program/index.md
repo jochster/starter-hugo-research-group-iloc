@@ -4,6 +4,7 @@ date: 2023-02-26T23:00:00.000Z
 ---
 
 {{% callout note %}} [Download the final version of program in PDF](https://iloc-2023.netlify.app/uploads/IEEE-ITSC-2023-Workshop-iLoc2-Program-Final.pdf) {{% /callout %}}
+{{% callout note %}} [Download the presentation files](https://filesender.utc.fr/filesender/?s=download&token=cc3f7c94-9c39-4bca-a871-579e69102847) {{% /callout %}}
 
 |    SESSION      |      TIME     |                                              TALK                                                             | 
 |-----------------|---------------|---------------------------------------------------------------------------------------------------------------|
