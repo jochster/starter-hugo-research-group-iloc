@@ -1,5 +1,5 @@
 ---
-title: Speakers
+title: Invited Speakers
 
 # Listing view
 view: compact
