@@ -9,7 +9,7 @@ High-integrity Localization for Automated Vehicles"
 hero_media: null
 cta:
         label: Presentations available! # Save the date! # Call for posters # Submit your paper!
-        url: /tour/
+        url: /post/iloc-workshop-presentations-available/
         icon_pack: fas
         icon: file
 cta_alt:
