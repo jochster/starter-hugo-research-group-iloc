@@ -8,7 +8,7 @@ title: "**The iLoc workshop** - \\
 High-integrity Localization for Automated Vehicles"
 hero_media: null
 cta:
-        label: Presentations available!#Save the date! # Call for posters # Submit your paper!
+        label: Presentations available! # Save the date! # Call for posters # Submit your paper!
         url: /tour/
         icon_pack: fas
         icon: file
