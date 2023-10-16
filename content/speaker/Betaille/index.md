@@ -40,7 +40,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: '/03_iLoc_ITSC23_David_Betaille_[public].pdf'
 url_video: ''
 
 # Markdown Slides (optional).
