@@ -12,20 +12,16 @@ image:
 ---
 A﻿ big thank you to all iLoc presenters and organizers! 
 
-The presentation files are now available:  
+The presentation files are now available, i﻿ncluding:
 
-> [l﻿ink to presentation files](https://filesender.utc.fr/filesender/?s=download&token=cc3f7c94-9c39-4bca-a871-579e69102847)
-
-i﻿ncluding the presentations by
-
-* Philippe Xu (available for downloading)
-* Philippe Bonnifait (available for downloading)
-* Steffen Schön (available for downloading)
-* Scott Martin (available for downloading)
-* Justin Dauwels (available for downloading)
-* David Bétaille (available for downloading)
-* Fabian Ruwisch (available for downloading)
-* Jeldrik Axmann (available for downloading)
+* Philippe Xu ([click to download](/uploads/00a_iLoc_ITSC23_Philippe_Xu_[public].pdf))
+* Philippe Bonnifait ([click to download](/uploads/00b_iLoc_ITSC23_Philippe_Bonnifait_[public].pdf))
+* Steffen Schön ([click to download](/uploads/00c_iLoc_ITSC23_Steffen_Schon_[public].pdf))
+* Scott Martin ([click to download](/uploads/01_iLoc_ITSC23_Scott_Martin_[public].pdf))
+* Justin Dauwels ([click to download](/uploads/02_iLoc_ITSC23_Justin_Dauwels_[public].pdf))
+* David Bétaille ([click to download](/uploads/03_iLoc_ITSC23_David_Betaille_[public].pdf))
+* Fabian Ruwisch ([click to download](/uploads/04_iLoc_ITSC23_Fabian_Ruwisch_[public].pdf))
+* Jeldrik Axmann ([click to download](/uploads/05_iLoc_ITSC23_Jeldrik_Axmann_[public].pdf))
 * Enrique Dominguez (available on request: philippe.xu@hds.utc.fr)
-* Bernd Kröper (available for downloading)
-* Elwan Héry (available for downloading)
+* Bernd Kröper ([click to download](/uploads/07_iLoc_ITSC23_Bernd_Kroper_[public].pdf))
+* Elwan Héry ([click to download](/uploads/08_iLoc_ITSC23_Elwan_Hery_[public].pdf))
