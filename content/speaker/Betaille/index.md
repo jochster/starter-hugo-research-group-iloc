@@ -1,5 +1,5 @@
 ---
-title: Workshop paper: Vision- and map-based non-line-of-sight satellites hybridized processing
+title: 'Workshop paper: Vision- and map-based non-line-of-sight satellites hybridized processing'
 
 event: Betaille
 event_url: 
