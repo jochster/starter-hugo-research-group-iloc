@@ -15,43 +15,43 @@ design:
 
 content:
   slides:
-    - title: CALL FOR POSTER PRESENTATIONS
-      content: 'open to present novel, past or ongoing research related to the topics covered by the workshop
-      
-      - Submission deadline: <span style="color: DodgerBlue;">Aug 15, 2023</span>
-      
-      - Decision notification: <span style="color: DodgerBlue;">Aug 16, 2023</span>'
-      align: left
-      background:
-        position: right
-        color: '#666'
-        brightness: 0.7
-        media: "call_for_posters.png"
-      link:
-        icon: arrow-up-from-bracket
-        icon_pack: fas
-        text: Poster presentation guidelines
-        url: /workshop2/poster/     
-        
-    - title: CALL FOR WORKSHOP PAPERS
-      content: 'Submit your paper with the Workshop Code: <span style="color: Red;">**u41sy**</span>
-      
-      - Submission deadline: <span style="color: DodgerBlue;">~~May 15, 2023~~ ~~May 22, 2023~~ May 28, 2023</span>
-      
-      - Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
-      
-      - Final paper submission: <span style="color: DodgerBlue;">July 31, 2023</span>'
-      align: left
-      background:
-        position: right
-        color: '#666'
-        brightness: 0.7
-        media: "driving-erik-mclean-unsplash.jpg"
-      link:
-        icon: arrow-up-from-bracket
-        icon_pack: fas
-        text: Papercept submission platform
-        url: https://its.papercept.net/conferences/scripts/start.pl
+   # - title: CALL FOR POSTER PRESENTATIONS
+   #   content: 'open to present novel, past or ongoing research related to the topics covered by the workshop
+   #   
+   #   - Submission deadline: <span style="color: DodgerBlue;">Aug 15, 2023</span>
+   #   
+   #   - Decision notification: <span style="color: DodgerBlue;">Aug 16, 2023</span>'
+   #   align: left
+   #   background:
+   #     position: right
+   #     color: '#666'
+   #     brightness: 0.7
+   #     media: "call_for_posters.png"
+   #   link:
+   #     icon: arrow-up-from-bracket
+   #     icon_pack: fas
+   #     text: Poster presentation guidelines
+   #     url: /workshop2/poster/     
+   #     
+   # - title: CALL FOR WORKSHOP PAPERS
+   #   content: 'Submit your paper with the Workshop Code: <span style="color: Red;">**u41sy**</span>
+   #   
+   #   - Submission deadline: <span style="color: DodgerBlue;">~~May 15, 2023~~ ~~May 22, 2023~~ May 28, 2023</span>
+   #   
+   #   - Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
+   #   
+   #   - Final paper submission: <span style="color: DodgerBlue;">July 31, 2023</span>'
+   #   align: left
+   #   background:
+   #     position: right
+   #     color: '#666'
+   #     brightness: 0.7
+   #     media: "driving-erik-mclean-unsplash.jpg"
+   #   link:
+   #     icon: arrow-up-from-bracket
+   #     icon_pack: fas
+   #     text: Papercept submission platform
+   #     url: https://its.papercept.net/conferences/scripts/start.pl
     - title: Scope of iLoc workshop
       content: 'to emphasize the importance of integrity in ITS addressing the scientific challenges with respect to the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks.'
       align: left
@@ -60,6 +60,46 @@ content:
         color: '#555'
         brightness: 0.7
         media: "tram-weyne-yew-unsplash.jpg"
+    - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: "PXL_20230924_120939691.jpg"
+    - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: "PXL_20230924_122956797.jpg"
+    - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: "PXL_20230924_131225902.jpg"
+    - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: "PXL_20230924_154323822.MP.jpg"
+    - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: "PXL_20230924_163300774.jpg"
     - title: 26th IEEE International Conference on Intelligent Transportation Systems
       content: 'Towards a New Era of Human-aware, Human-interactive, and Human-friendly ITS'
       align: right
