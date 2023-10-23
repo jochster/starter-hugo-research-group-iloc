@@ -15,50 +15,91 @@ design:
 
 content:
   slides:
-    - title: CALL FOR POSTER PRESENTATIONS
-      content: 'open to present novel, past or ongoing research related to the topics covered by the workshop
-      
-      - Submission deadline: <span style="color: DodgerBlue;">Aug 15, 2023</span>
-      
-      - Decision notification: <span style="color: DodgerBlue;">Aug 16, 2023</span>'
+    - - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
       align: left
       background:
-        position: right
-        color: '#666'
+        position: center
+        color: '#555'
         brightness: 0.7
-        media: "call_for_posters.png"
-      link:
-        icon: arrow-up-from-bracket
-        icon_pack: fas
-        text: Poster presentation guidelines
-        url: /workshop2/poster/
-    - title: CALL FOR WORKSHOP PAPERS
-      content: 'Submit your paper with the Workshop Code: <span style="color: Red;">**u41sy**</span>
-      
-      - Submission deadline: <span style="color: DodgerBlue;">~~May 15, 2023~~ ~~May 22, 2023~~ May 28, 2023</span>
-      
-      - Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
-      
-      - Final paper submission: <span style="color: DodgerBlue;">July 31, 2023</span>'
+        media: "PXL_20230924_120939691.jpg"
+    - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
       align: left
       background:
-        position: right
-        color: '#666'
+        position: center
+        color: '#555'
         brightness: 0.7
-        media: "driving-erik-mclean-unsplash.jpg"
-      link:
-        icon: arrow-up-from-bracket
-        icon_pack: fas
-        text: Papercept submission platform
-        url: https://its.papercept.net/conferences/scripts/start.pl
-    - title: 👋 Welcome to the 2nd iLoc workshop
-      content: planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE ITSC
-      align: center
+        media: "PXL_20230924_122956797.jpg"
+    - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
+      align: left
       background:
-        position: right
-        color: '#666'
+        position: center
+        color: '#555'
         brightness: 0.7
-        media: "driving-erik-mclean-unsplash.jpg"
+        media: "PXL_20230924_131225902.jpg"
+    - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: "PXL_20230924_154323822.MP.jpg"
+    - title: the 2nd iLoc workshop
+      content: '©Philippe Xu'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: "PXL_20230924_163300774.jpg"
+        
+   # - title: CALL FOR POSTER PRESENTATIONS
+   #   content: 'open to present novel, past or ongoing research related to the topics covered by the workshop
+   #   
+   #   - Submission deadline: <span style="color: DodgerBlue;">Aug 15, 2023</span>
+   #   
+   #   - Decision notification: <span style="color: DodgerBlue;">Aug 16, 2023</span>'
+   #   align: left
+   #   background:
+   #     position: right
+   #     color: '#666'
+   #     brightness: 0.7
+   #     media: "call_for_posters.png"
+   #   link:
+   #     icon: arrow-up-from-bracket
+   #     icon_pack: fas
+   #     text: Poster presentation guidelines
+   #     url: /workshop2/poster/
+   # - title: CALL FOR WORKSHOP PAPERS
+   #   content: 'Submit your paper with the Workshop Code: <span style="color: Red;">**u41sy**</span>
+   #   
+   #   - Submission deadline: <span style="color: DodgerBlue;">~~May 15, 2023~~ ~~May 22, 2023~~ May 28, 2023</span>
+   #   
+   #   - Decision notification: <span style="color: DodgerBlue;">June 30, 2023</span>
+   #   
+   #   - Final paper submission: <span style="color: DodgerBlue;">July 31, 2023</span>'
+   #   align: left
+   #   background:
+   #     position: right
+   #     color: '#666'
+   #     brightness: 0.7
+   #     media: "driving-erik-mclean-unsplash.jpg"
+   #   link:
+   #     icon: arrow-up-from-bracket
+   #     icon_pack: fas
+   #     text: Papercept submission platform
+   #     url: https://its.papercept.net/conferences/scripts/start.pl
+   # - title: 👋 Welcome to the 2nd iLoc workshop
+   #   content: planned to be held September 24th, 2023 in Bilbao, Spain at the 26th IEEE ITSC
+   #   align: center
+   #   background:
+   #     position: right
+   #     color: '#666'
+   #     brightness: 0.7
+   #     media: "driving-erik-mclean-unsplash.jpg"
     - title: 👋 the 1st iLoc workshop
       content: took place on June 5th, 2022 in Aachen, Germany at the 33rd IEEE IV Symposium
       align: center
