@@ -52,14 +52,7 @@ content:
    #     icon_pack: fas
    #     text: Papercept submission platform
    #     url: https://its.papercept.net/conferences/scripts/start.pl
-    - title: Scope of iLoc workshop
-      content: 'to emphasize the importance of integrity in ITS addressing the scientific challenges with respect to the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks.'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: "tram-weyne-yew-unsplash.jpg"
+    
     - title: the 2nd iLoc workshop
       content: '©Philippe Xu'
       align: left
@@ -100,6 +93,14 @@ content:
         color: '#555'
         brightness: 0.7
         media: "PXL_20230924_163300774.jpg"
+    - title: Scope of iLoc workshop
+      content: 'to emphasize the importance of integrity in ITS addressing the scientific challenges with respect to the management of localization integrity for vehicle navigation in complex traffic environments including its use as part of perception tasks.'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: "tram-weyne-yew-unsplash.jpg"
     - title: 26th IEEE International Conference on Intelligent Transportation Systems
       content: 'Towards a New Era of Human-aware, Human-interactive, and Human-friendly ITS'
       align: right
