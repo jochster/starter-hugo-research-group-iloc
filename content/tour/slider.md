@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - - title: the 2nd iLoc workshop
+    - title: the 2nd iLoc workshop
       content: '©Philippe Xu'
       align: left
       background:
